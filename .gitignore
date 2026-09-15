@@ -1,0 +1,26 @@
+# Carpetas ignoradas dentro de git para evitar subir arhivos generados durante la ejecucion
+
+Datos/Cargados/*
+Datos/Procesados/*
+Datos/CSV_Generados/*
+Datos/Implementacion_Gobernaza/*
+Datos/Analiticos/Parquet/*
+Datos/Analiticos/Resultados/*
+Recursos/*.zip
+
+# incluir archivo para mantener las carpetas vacias generadas dentro de la vista del repositorio
+!Datos/Cargados/.gitkeep
+!Datos/Procesados/.gitkeep
+!Datos/CSV_Generados/.gitkeep
+!Datos/Implementacion_Gobernaza/.gitkeep
+!Datos/Analiticos/Parquet/.gitkeep
+!Datos/Analiticos/Resultados/.gitkeep
+!Recursos/.gitkeep
+!Documentacion/.gitkeep
+
+# Para que git ignore archivos generados en la carga de trabajo
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
