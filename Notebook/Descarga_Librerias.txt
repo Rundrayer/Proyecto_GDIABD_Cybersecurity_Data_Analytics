@@ -1,0 +1,5 @@
+Va a necesitar descargar estas librerías en tu entorno para poder ejecutar todos los procesos del proyecto
+
+-pandas
+-numpy
+-fastparquet
