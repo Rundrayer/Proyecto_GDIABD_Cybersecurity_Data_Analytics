@@ -5,3 +5,8 @@ Va a necesitar descargar estas librerías en tu entorno para poder ejecutar todo
 -fastparquet
 -pyarrow
 -pyspark de 3.5.3 en delante 
+
+Si en Windows falla el guardado de archivos Parquet con Spark 
+(error "HADOOP_HOME and hadoop.home.dir are unset"):
+
+1. Descargar winutils.exe y hadoop.dll (si necesitan ayuda me avisan a mi (Daniel).
