@@ -20,6 +20,7 @@ Recursos/*.zip
 
 # Para que git ignore archivos generados en la carga de trabajo
 __pycache__/
+*.rar
 *.pyc
 .ipynb_checkpoints/
 .venv/

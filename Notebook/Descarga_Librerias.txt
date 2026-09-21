@@ -3,3 +3,5 @@ Va a necesitar descargar estas librerías en tu entorno para poder ejecutar todo
 -pandas
 -numpy
 -fastparquet
+-pyarrow
+-pyspark de 3.5.3 en delante 
