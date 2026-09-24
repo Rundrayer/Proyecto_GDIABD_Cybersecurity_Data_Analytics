@@ -1,12 +1,15 @@
 Va a necesitar descargar estas librerías en tu entorno para poder ejecutar todos los procesos del proyecto
 
+#Librerias
 -pandas
 -numpy
--fastparquet
 -pyarrow
 -pyspark de 3.5.3 en delante 
+-openpyxl
 
-Si en Windows falla el guardado de archivos Parquet con Spark 
-(error "HADOOP_HOME and hadoop.home.dir are unset"):
+#Programas:
+-hadoop
+-Version de JDK de java
 
-1. Descargar winutils.exe y hadoop.dll (si necesitan ayuda me avisan a mi (Daniel).
+-Para ejecutarlo en windows de manera local
+1. Descargar winutils.exe y hadoop.dll y cambiar direccion de ruta en configuraciones
