@@ -1,6 +1,6 @@
 Para la ejecucion correcta de todo el sistema sera necesario que tome en cuenta:
 
--Descargar todas las librerias estipuladas en Notebook/Descragar_Librerias.txt
+-Descargar todas las librerias estipuladas en Notebook/Descargar_Librerias.txt
 así como JDK y una versión de hadoop
 -
 
@@ -8,7 +8,7 @@ así como JDK y una versión de hadoop
 
 -En una carpeta  colocar las carpetas Datos, Notebook, Recursos
 
--Colocar el Contenido de Notebook(Repositorio) dentro de la su carpeta y ejecutar los archivos desde esa carpeta, desde su editor de preferencia
+-Colocar el Contenido de Notebook(Repositorio) dentro de su carpeta Notebook y ejecutar los archivos desde esa carpeta, con su editor de preferencia
 
 -Colocar dentro de Recursos el origen de datos especifico en formato .zip
 -
