@@ -37,3 +37,7 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
+
+# Excepciones: Permitir que los reportes oficiales de la carpeta de documentación sí se suban a GitHub
+!Datos/Analiticos/Resultados/*.md
+!Datos/Analiticos/Resultados/-*.xlsx
