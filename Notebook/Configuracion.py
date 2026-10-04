@@ -6,7 +6,7 @@ import os
 
 
 #MODIFICAR RUTAS CON LOS ARCHIVOS winutils.exe y hadoop.dll -------------------------------------------------------------------MODIFICAR
-RUTA_HADOOP = Path(r"C:\Users\galle\Desktop\IA Datos\Jupyter\Proyecto_GDIABD_Cybersecurity_Data_Analytics\Recursos\hadoop")
+RUTA_HADOOP = Path(r"C:\Users\galle\Desktop\IA Datos\hadoop")
 
 #--
 
@@ -27,6 +27,7 @@ DIRECTORIO_BASE = Path("../Datos")
 
 #APUNTA A LA CARPETA "Recursos" UBICADA JUNTO CON ESTE PROYECTO
 RECURSOS = Path("../Recursos")
+DOCUMENTACION = Path("../Documentacion")
 
 #DECLARACION DE RUTAS DE CARPETAS
 CARGADOS = DIRECTORIO_BASE / "Cargados"
