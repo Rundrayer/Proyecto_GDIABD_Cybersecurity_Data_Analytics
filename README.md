@@ -17,4 +17,4 @@ así como JDK y una versión de hadoop
 -Modificar la ruta en  Configuracion.py en el apartado;  RUTA_HADOOP = Path( , ahi colocara la ruta de los 2 binarios de hadoop
 -
 
---Es posible modificar las retas de Configuración.py de ser necesario
+--Es posible modificar las rutas de Configuración.py para un mejor manejo de sus archivos
