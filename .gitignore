@@ -13,7 +13,7 @@ Recursos/*
 !Datos/Cargados/.gitkeep
 !Datos/Procesados/.gitkeep
 !Datos/CSV_Generados/.gitkeep
-!Datos/Implementacion_Gobernaza/.gitkeep
+!Datos/Implementacion_Gobernanza/.gitkeep
 !Datos/Analiticos/Parquet/.gitkeep
 !Datos/Analiticos/Resultados/.gitkeep
 !Recursos/.gitkeep
@@ -41,3 +41,4 @@ venv/
 # Excepciones: Permitir que los reportes oficiales de la carpeta de documentación sí se suban a GitHub
 !Datos/Analiticos/Resultados/*.md
 !Datos/Analiticos/Resultados/*.xlsx
+!README.md
