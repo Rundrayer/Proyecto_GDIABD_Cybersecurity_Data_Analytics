@@ -5,7 +5,7 @@ on:
     - cron: '0 8 * * 1'
   workflow_dispatch:
   push:
-    paths: ['Reporteria/datos/agregados/**', 'Notebook/Reporte_Automatizado.ipynb', 'Reporteria/templates/**']
+        paths: ['Reporteria/datos/agregados/**', 'Notebook/07_Reporteria_Automatizada.ipynb', 'Reporteria/templates/**']
 
 jobs:
   generar-informe:
@@ -24,7 +24,7 @@ jobs:
       - name: Ejecutar notebook (modo agregados)
         env:
           REPORTE_VERSION: "1.${{ github.run_number }}"
-        run: jupyter nbconvert --to notebook --execute Notebook/Reporte_Automatizado.ipynb --output-dir "$RUNNER_TEMP" --output ejecutado.ipynb
+                run: jupyter nbconvert --to notebook --execute Notebook/07_Reporteria_Automatizada.ipynb --output-dir "$RUNNER_TEMP" --output ejecutado.ipynb
       - name: Subir artefactos
         uses: actions/upload-artifact@v4
         with:
