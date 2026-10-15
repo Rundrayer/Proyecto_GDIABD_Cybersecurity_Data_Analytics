@@ -2,7 +2,7 @@
 <html lang="es"><head><meta charset="UTF-8">
 <title>Informe ejecutivo de seguridad de red</title>
 <style>
-@page { size: A4; margin: 18mm 15mm; @bottom-center { content: "Equipo 5 · Informe v1.0 · Página " counter(page); font-size: 9px; color: #888; } }
+@page { size: A4; margin: 18mm 15mm; @bottom-center { content: "Equipo 2 · Informe v1.0 · Página " counter(page); font-size: 9px; color: #888; } }
 body { font-family: Arial, Helvetica, sans-serif; color: #2b2b2b; line-height: 1.5; font-size: 12px; }
 h2 { color: #1f4e79; margin-top: 24px; border-bottom: 1px solid #ddd; padding-bottom: 4px; page-break-after: avoid; }
 h3 { margin: 0 0 6px; color: #c0392b; }
@@ -23,7 +23,7 @@ figcaption { font-size: 10px; color: #777; text-align: center; } .meta { font-si
 <div class="portada">
 <h1>Informe ejecutivo de seguridad de red</h1>
 <div>Análisis de eventos de seguridad, accesos y alertas — CICIDS2017</div>
-<p><b>Periodo:</b> 03/07/2017 – 07/07/2017 · <b>Generado:</b> 14/10/2026 20:13 · <b>Versión:</b> 1.0<br><b>Equipo 5 — Cybersecurity Data Analytics</b></p>
+<p><b>Periodo:</b> 03/07/2017 – 07/07/2017 · <b>Generado:</b> 14/10/2026 20:31 · <b>Versión:</b> 1.0<br><b>Equipo 2 — Cybersecurity Data Analytics</b></p>
 </div>
 <h2>1. Resumen ejecutivo</h2>
 <p>Se analizaron 2,827,562 flujos de red entre 03/07/2017 – 07/07/2017. El 19.68% (556,555) fue malicioso, repartido en 14 tipos de ataque. DoS Hulk es el más frecuente (41.3% de los ataques) y la familia DoS/DDoS concentra 68.2%. La hora 16:00 reúne 41.9% de los ataques, 70.3% son de bajo volumen y sus flujos duran ≈11 veces más que los benignos (mediana), por lo que las reglas de detección deben combinar variables y no depender solo del tamaño del flujo.</p>
@@ -49,7 +49,7 @@ figcaption { font-size: 10px; color: #777; text-align: center; } .meta { font-si
 <p><b>Impacto:</b> Proteger ese servicio cubre la mayor parte del riesgo observado.</p><p><b>Decisión sugerida:</b> Hardening y monitoreo específico del servicio web; restringir FTP/SSH si no son necesarios.</p><p><b>Limitación:</b> El puerto destino no identifica al atacante; las IP no se publican por gobernanza (Guía 4).</p></div>
 <h2>5. Recomendaciones</h2>
 <table><tr><th>#</th><th>Acción</th><th>Prioridad</th><th>Responsable</th><th>Plazo</th><th>KPI de seguimiento</th></tr>
-<tr><td>1</td><td>Implementar rate limiting y detección de DoS en servicios HTTP</td><td>Alta</td><td>Equipo de infraestructura / seguridad</td><td>30 días</td><td>% de flujos DoS/DDoS bloqueados</td></tr><tr><td>2</td><td>Reforzar monitoreo en las franjas horarias de mayor incidencia</td><td>Alta</td><td>Analista SOC</td><td>15 días</td><td>Ataques detectados en hora pico / total</td></tr><tr><td>3</td><td>Reglas de detección multivariable (volumen + frecuencia + puerto + duración)</td><td>Media</td><td>Ingeniería de datos / ML</td><td>60 días</td><td>Tasa de detección sin aumentar falsos positivos</td></tr><tr><td>4</td><td>Restringir FTP/SSH y bloquear por intentos fallidos (fuerza bruta)</td><td>Media</td><td>Administración de sistemas</td><td>45 días</td><td>Intentos de fuerza bruta por día</td></tr><tr><td>5</td><td>Mantener este informe automatizado y versionado en GitHub</td><td>Baja</td><td>Equipo 5</td><td>Continuo</td><td>Informes generados sin intervención manual</td></tr></table>
+<tr><td>1</td><td>Implementar rate limiting y detección de DoS en servicios HTTP</td><td>Alta</td><td>Equipo de infraestructura / seguridad</td><td>30 días</td><td>% de flujos DoS/DDoS bloqueados</td></tr><tr><td>2</td><td>Reforzar monitoreo en las franjas horarias de mayor incidencia</td><td>Alta</td><td>Analista SOC</td><td>15 días</td><td>Ataques detectados en hora pico / total</td></tr><tr><td>3</td><td>Reglas de detección multivariable (volumen + frecuencia + puerto + duración)</td><td>Media</td><td>Ingeniería de datos / ML</td><td>60 días</td><td>Tasa de detección sin aumentar falsos positivos</td></tr><tr><td>4</td><td>Restringir FTP/SSH y bloquear por intentos fallidos (fuerza bruta)</td><td>Media</td><td>Administración de sistemas</td><td>45 días</td><td>Intentos de fuerza bruta por día</td></tr><tr><td>5</td><td>Mantener este informe automatizado y versionado en GitHub</td><td>Baja</td><td>Equipo 2</td><td>Continuo</td><td>Informes generados sin intervención manual</td></tr></table>
 <h2>6. Limitaciones y gobernanza</h2>
 <div class="limit">Dataset de laboratorio (CICIDS2017, 3–7 jul 2017): no representa una red productiva actual.</div><div class="limit">Desbalance de clases: ~80% benigno; Heartbleed (11), Infiltration (36) y SQL Injection (21) están muy poco representados.</div><div class="limit">Limpieza previa: se eliminaron 288,602 flujos sin etiqueta, 203 duplicados exactos y 2,978 flujos con valores inválidos (Infinity/NaN, rangos); quedan 2,827,562.</div><div class="limit">Las direcciones IP, flow_id y puertos de origen no se incluyen (minimización y seudonimización, Guía 4).</div><div class="limit">No se incluye análisis geoespacial (Guía 6): es una red de laboratorio sin coordenadas reales; el equivalente por segmento de red exigiría exponer IP.</div>
 <p class="meta">Informe generado automáticamente desde el notebook Reporte_Automatizado.ipynb. Trazabilidad en metadata_informe.json.</p>
