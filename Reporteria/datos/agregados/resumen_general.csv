@@ -1,0 +1,2 @@
+fuente,total_flujos,ataques,fecha_min,fecha_max,dur_med_benigno_s,dur_med_ataque_s,ratio_med_benigno,ratio_med_ataque,pct_bidir_benigno,pct_bidir_ataque
+dataset_enriquecido_final.parquet,2827562,556555,2017-07-03 07:00:01,2017-07-07 18:59:00,0.031005,0.347551,0.3211009174311927,0.002241186104646151,85.47661896242505,78.14861064944165

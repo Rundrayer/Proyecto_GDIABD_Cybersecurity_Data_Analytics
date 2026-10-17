@@ -7,12 +7,13 @@ Datos/Implementacion_Gobernaza/*
 Datos/Analiticos/Parquet/*
 Datos/Analiticos/Resultados/*
 Recursos/*.zip
+Recursos/*
 
 # incluir archivo para mantener las carpetas vacias generadas dentro de la vista del repositorio
 !Datos/Cargados/.gitkeep
 !Datos/Procesados/.gitkeep
 !Datos/CSV_Generados/.gitkeep
-!Datos/Implementacion_Gobernaza/.gitkeep
+!Datos/Implementacion_Gobernanza/.gitkeep
 !Datos/Analiticos/Parquet/.gitkeep
 !Datos/Analiticos/Resultados/.gitkeep
 !Recursos/.gitkeep
@@ -20,8 +21,24 @@ Recursos/*.zip
 
 # Para que git ignore archivos generados en la carga de trabajo
 __pycache__/
+
+*.exe
+*.dll
+*.md
+*.xlsx
+*.csv
+*.parquet
+*.parquet/
+
+
+
 *.rar
 *.pyc
 .ipynb_checkpoints/
 .venv/
 venv/
+
+# Excepciones: Permitir que los reportes oficiales de la carpeta de documentación sí se suban a GitHub
+!Datos/Analiticos/Resultados/*.md
+!Datos/Analiticos/Resultados/*.xlsx
+!README.md

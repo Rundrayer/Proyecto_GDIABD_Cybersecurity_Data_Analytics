@@ -1,0 +1,35 @@
+name: Generar informe automático
+
+on:
+    schedule:
+    - cron: '0 8 * * 1'      # todos los lunes 08:00 UTC
+    workflow_dispatch:
+        push:
+    paths: ['datos/agregados/**', 'Reporte_Automatizado.ipynb', 'templates/**']
+
+jobs:
+generar-informe:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+        with:
+        python-version: '3.11'
+        cache: pip
+    - name: Dependencias del sistema (WeasyPrint)
+        run: sudo apt-get update && sudo apt-get install -y libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz-subset0
+    - name: Dependencias Python
+        run: pip install -r requirements.txt jupyter nbconvert ipykernel
+    - name: Chrome para exportar gráficos Plotly
+        run: plotly_get_chrome -y
+    - name: Ejecutar notebook (modo agregados)
+        env:
+        REPORTE_VERSION: "1.${{ github.run_number }}"
+        run: jupyter nbconvert --to notebook --execute Reporte_Automatizado.ipynb --output ejecutado.ipynb
+    - name: Subir artefactos
+        uses: actions/upload-artifact@v4
+        with:
+        name: informe-generado
+        path: |
+            exportaciones/
+            evidencias/reporte/

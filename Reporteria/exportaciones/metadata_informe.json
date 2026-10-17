@@ -1,0 +1,86 @@
+{
+  "version": "1.0",
+  "fecha_generacion": "2026-10-14T20:31:57",
+  "modo_ejecucion": "parquet",
+  "periodo_analizado": "03/07/2017 – 07/07/2017",
+  "fuentes_datos": [
+    "dataset_enriquecido_final.parquet (CICIDS2017, agregado y anonimizado)",
+    "datos/agregados/por_dia.csv",
+    "datos/agregados/por_duracion.csv",
+    "datos/agregados/por_etiqueta.csv",
+    "datos/agregados/por_hora.csv",
+    "datos/agregados/por_protocolo.csv",
+    "datos/agregados/por_volumen.csv",
+    "datos/agregados/puertos_ataque.csv",
+    "datos/agregados/resumen_general.csv"
+  ],
+  "filtros_aplicados": {
+    "periodo": "completo",
+    "etiquetas": "todas",
+    "ips_publicadas": false
+  },
+  "kpis": {
+    "total_flujos": 2827562,
+    "ataques": 556555,
+    "pct_malicioso": 19.6832,
+    "tipos_ataque": 14,
+    "top_label": "DoS Hulk",
+    "top_label_flujos": 230123,
+    "top_label_pct": 41.3478,
+    "familia_top": "DoS/DDoS",
+    "familia_top_pct": 68.2297,
+    "hora_pico": 16,
+    "hora_pico_ataques": 233292,
+    "hora_pico_pct": 41.9172,
+    "dia_pico": "2017-07-07",
+    "dia_pico_ataques": 288785,
+    "dias_con_ataque": 4,
+    "dias_total": 5,
+    "pct_atq_volumen_bajo": 70.2739,
+    "pct_alto_benigno": 99.5706,
+    "puerto_top": 80,
+    "puerto_top_pct": 68.6881,
+    "pct_atq_tcp": 99.9987,
+    "dur_med_atq": 0.3476,
+    "dur_med_ben": 0.031,
+    "ratio_med_atq": 0.0022,
+    "ratio_med_ben": 0.3211,
+    "fecha_min": "2017-07-03",
+    "fecha_max": "2017-07-07",
+    "factor_duracion": 11.2095,
+    "periodo": "03/07/2017 – 07/07/2017"
+  },
+  "validaciones": [
+    "suma por etiqueta == total",
+    "suma por día == total",
+    "ataques por día == ataques",
+    "suma por protocolo == total",
+    "sin IP/flow_id/puerto origen en las salidas"
+  ],
+  "archivos_generados": {
+    "informe_ciberseguridad.html": {
+      "sha256_16": "d64ce0e85381543b",
+      "bytes": 1285818
+    },
+    "informe_ciberseguridad_v1.0.pdf": {
+      "sha256_16": "9e55f91a61f4c167",
+      "bytes": 673701
+    },
+    "informe_ciberseguridad_v1.0.docx": {
+      "sha256_16": "171292546f63619c",
+      "bytes": 813353
+    }
+  },
+  "graficos": [
+    "g1_tipos_ataque.png",
+    "g2_ataques_por_dia.png",
+    "g3_ataques_por_hora.png",
+    "g4_familias.png",
+    "g5_volumen_riesgo.png",
+    "g6_protocolo.png",
+    "g7_duracion_por_ataque.png"
+  ],
+  "motor_pdf": "WeasyPrint",
+  "generado_por": "Reporte_Automatizado.ipynb",
+  "gobernanza": "Sin IP, flow_id ni puertos de origen (Guía 4)"
+}

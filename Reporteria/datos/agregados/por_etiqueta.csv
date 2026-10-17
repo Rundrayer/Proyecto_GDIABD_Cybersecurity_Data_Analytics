@@ -1,0 +1,16 @@
+label,familia,flujos,duracion_mediana_s
+BENIGN,Benigno,2271007,0.031005
+DoS Hulk,DoS/DDoS,230123,84.944331
+PortScan,Reconocimiento,158804,4.7e-05
+DDoS,DoS/DDoS,128025,1.878984
+DoS GoldenEye,DoS/DDoS,10293,11.588797
+FTP-Patator,Fuerza bruta,7935,4.056257
+SSH-Patator,Fuerza bruta,5897,2.475285
+DoS slowloris,DoS/DDoS,5796,97.082009
+DoS Slowhttptest,DoS/DDoS,5499,63.117636
+Bot,Botnet,1956,0.070974
+Web Attack - Brute Force,Web Attack,1507,5.552319
+Web Attack - XSS,Web Attack,652,5.3989095
+Infiltration,Infiltración,36,93.188869
+Web Attack - Sql Injection,Web Attack,21,5.006127
+Heartbleed,Vulnerabilidad crítica,11,119.261118
