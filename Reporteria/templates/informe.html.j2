@@ -19,6 +19,7 @@ th, td { border: 1px solid #ddd; padding: 6px; text-align: left; } th { backgrou
 tr:nth-child(even) { background: #f6f6f6; }
 img { max-width: 100%; display: block; margin: 8px auto; } figure { margin: 10px 0; page-break-inside: avoid; }
 figcaption { font-size: 10px; color: #777; text-align: center; } .meta { font-size: 10px; color: #777; }
+.traz td, .traz th { font-size: 9.5px; padding: 4px; } .traz td:first-child { white-space: nowrap; font-weight: bold; }
 </style></head><body>
 <div class="portada">
 <h1>Informe ejecutivo de seguridad de red</h1>
@@ -42,7 +43,11 @@ figcaption { font-size: 10px; color: #777; text-align: center; } .meta { font-si
 <h2>5. Recomendaciones</h2>
 <table><tr><th>#</th><th>Acción</th><th>Prioridad</th><th>Responsable</th><th>Plazo</th><th>KPI de seguimiento</th></tr>
 {% for r in recomendaciones %}<tr><td>{{ loop.index }}</td>{% for c in r %}<td>{{ c }}</td>{% endfor %}</tr>{% endfor %}</table>
-<h2>6. Limitaciones y gobernanza</h2>
+<h2>6. Matriz de trazabilidad</h2>
+<p>Cada hallazgo queda enlazado con su evidencia, el archivo de datos del que sale, la transformación aplicada, la figura que lo muestra y la recomendación que origina.</p>
+<table class="traz"><tr><th>ID</th><th>Hallazgo / KPI</th><th>Evidencia</th><th>Fuente de datos</th><th>Transformación</th><th>Figura</th><th>Recomendación (# y prioridad)</th></tr>
+{% for t in trazabilidad %}<tr><td>{{ t.id }}</td><td>{{ t.hallazgo }}</td><td>{{ t.evidencia }}</td><td>{{ t.fuente }}</td><td>{{ t.transformacion }}</td><td>{{ t.figura }}</td><td>{{ t.recomendacion }}</td></tr>{% endfor %}</table>
+<h2>7. Limitaciones y gobernanza</h2>
 {% for l in limitaciones %}<div class="limit">{{ l }}</div>{% endfor %}
 <p class="meta">Informe generado automáticamente desde el notebook Reporte_Automatizado.ipynb. Trazabilidad en metadata_informe.json.</p>
 </body></html>

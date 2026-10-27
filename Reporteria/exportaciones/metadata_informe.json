@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "fecha_generacion": "2026-10-14T20:31:57",
+  "fecha_generacion": "2026-10-27T16:12:12",
   "modo_ejecucion": "parquet",
   "periodo_analizado": "03/07/2017 – 07/07/2017",
   "fuentes_datos": [
@@ -55,20 +55,25 @@
     "suma por día == total",
     "ataques por día == ataques",
     "suma por protocolo == total",
-    "sin IP/flow_id/puerto origen en las salidas"
+    "sin IP/flow_id/puerto origen en las salidas",
+    "cada hallazgo enlazado en la matriz de trazabilidad (fuente existente, figura y recomendación válidas)"
   ],
   "archivos_generados": {
     "informe_ciberseguridad.html": {
-      "sha256_16": "d64ce0e85381543b",
-      "bytes": 1285818
+      "sha256_16": "20cbf8d5c632ca4a",
+      "bytes": 1288593
     },
     "informe_ciberseguridad_v1.0.pdf": {
-      "sha256_16": "9e55f91a61f4c167",
-      "bytes": 673701
+      "sha256_16": "2574258ffb2ee332",
+      "bytes": 678516
     },
     "informe_ciberseguridad_v1.0.docx": {
-      "sha256_16": "171292546f63619c",
-      "bytes": 813353
+      "sha256_16": "93089f2350340dcf",
+      "bytes": 814164
+    },
+    "matriz_trazabilidad.csv": {
+      "sha256_16": "db06671622923f6d",
+      "bytes": 1969
     }
   },
   "graficos": [
