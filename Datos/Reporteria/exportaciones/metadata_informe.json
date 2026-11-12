@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "fecha_generacion": "2026-10-27T16:12:12",
+  "fecha_generacion": "2026-11-12T11:51:18",
   "modo_ejecucion": "parquet",
   "periodo_analizado": "03/07/2017 – 07/07/2017",
   "fuentes_datos": [
@@ -60,20 +60,20 @@
   ],
   "archivos_generados": {
     "informe_ciberseguridad.html": {
-      "sha256_16": "20cbf8d5c632ca4a",
-      "bytes": 1288593
+      "sha256_16": "9812d41db13da6c1",
+      "bytes": 1278293
     },
     "informe_ciberseguridad_v1.0.pdf": {
-      "sha256_16": "2574258ffb2ee332",
-      "bytes": 678516
+      "sha256_16": "5c9852a39fc586cc",
+      "bytes": 684286
     },
     "informe_ciberseguridad_v1.0.docx": {
-      "sha256_16": "93089f2350340dcf",
-      "bytes": 814164
+      "sha256_16": "57eb2df01ef99ce6",
+      "bytes": 805328
     },
     "matriz_trazabilidad.csv": {
-      "sha256_16": "db06671622923f6d",
-      "bytes": 1969
+      "sha256_16": "e6cac9df82471f3d",
+      "bytes": 1976
     }
   },
   "graficos": [
@@ -85,7 +85,7 @@
     "g6_protocolo.png",
     "g7_duracion_por_ataque.png"
   ],
-  "motor_pdf": "WeasyPrint",
+  "motor_pdf": "Chrome/Edge headless",
   "generado_por": "Reporte_Automatizado.ipynb",
   "gobernanza": "Sin IP, flow_id ni puertos de origen (Guía 4)"
 }

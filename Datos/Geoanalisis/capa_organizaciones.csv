@@ -1,0 +1,1688 @@
+continente,pais,ciudad,latitud,longitud,organizacion,flujos,paquetes
+NA,US,New York,40.7128,-74.006,Google LLC,93878,2355950
+NA,US,Ashburn,39.0438,-77.4874,"Amazon.com, Inc.",90514,1159177
+NA,US,Denver,39.7392,-104.99,Google LLC,42718,1053097
+NA,CA,Montreal,45.5019,-73.5674,Sin dato,35918,977258
+NA,US,San Jose,37.3387,-121.885,"Amazon.com, Inc.",35228,853080
+NA,CA,Toronto,43.6532,-79.3832,"Cloudflare, Inc.",26736,1066273
+NA,US,Piscataway,40.5549,-74.4643,"Akamai Technologies, Inc.",26010,368923
+NA,US,New York,40.7309,-73.9918,Sin dato,24970,178686
+AS,JP,Chiyoda City,35.694,139.754,Akamai International B.V.,21474,624005
+NA,US,New York,40.7419,-73.9909,"AppNexus, Inc",21267,232377
+EU,GB,London,51.5134,-0.0890675,CCANET Limited,20318,91450
+NA,US,Cambridge (East Cambridge),42.3649,-71.0888,Akamai International B.V.,17915,420152
+NA,US,Minneapolis,44.9778,-93.265,"Amazon.com, Inc.",17725,645773
+NA,US,Tempe,33.4292,-111.941,"GoDaddy.com, LLC",17129,76395
+NA,CA,Montreal,45.5019,-73.5674,"Fastly, Inc.",16159,1089154
+NA,US,Boardman,45.8399,-119.701,"Amazon.com, Inc.",13158,182676
+NA,US,Kansas City,39.0997,-94.5786,Google LLC,12529,194396
+NA,US,Los Angeles,34.0549,-118.243,Akamai International B.V.,11315,310115
+OC,NZ,Auckland,-36.8509,174.764,"Akamai Technologies, Inc.",10560,281898
+EU,IE,Dublin,53.3498,-6.26031,"Amazon.com, Inc.",10043,164292
+NA,US,Mountain View,37.4225,-122.085,Google LLC,9542,233243
+NA,US,Mount Prospect,42.0664,-87.9373,"Akamai Technologies, Inc.",9329,100136
+NA,US,Austin (Downtown Austin),30.2694,-97.7411,Canonical Group Limited,9198,105716
+NA,US,Los Angeles,34.0549,-118.243,Google LLC,9186,242618
+NA,US,Dallas,32.7767,-96.797,Criteo Corp.,8536,125487
+NA,US,Pasadena,34.1493,-118.133,Sin dato,8324,89050
+NA,US,Chicago,41.8781,-87.6298,"Akamai Technologies, Inc.",7994,78428
+NA,US,New York,40.7313,-74.0086,Sin dato,7929,95649
+NA,US,Monroe,32.5891,-92.0664,"Level 3 Communications, Inc.",7711,1050741
+NA,US,Seattle,47.6061,-122.333,"Fastly, Inc.",7066,217320
+NA,US,Seattle,47.4815,-122.246,"Amazon.com, Inc.",6889,207157
+NA,US,Seattle,47.6061,-122.333,Akamai International B.V.,6797,1813694
+NA,US,Washington D.C.,38.9072,-77.0369,"Facebook, Inc.",6769,119819
+SA,BR,Fortaleza,-3.73272,-38.527,"Akamai Technologies, Inc.",6464,97410
+EU,DE,Falkenstein,50.4754,12.3683,Hetzner Online GmbH,6428,89369
+EU,IT,Milan,45.4685,9.1824,"Amazon.com, Inc.",6086,121142
+NA,CA,Montreal (Ville-Marie),45.5029,-73.5723,OVH SAS,5881,166007
+AS,IN,Mumbai,19.076,72.8777,"Fastly, Inc.",5334,112992
+NA,US,Ashburn,39.0418,-77.4744,Oracle Corporation,5257,26819
+NA,CA,Toronto,43.6532,-79.3832,"Facebook, Inc.",5189,205378
+NA,US,San Francisco (South of Market),37.7766,-122.417,Twitter Inc.,4838,78127
+NA,US,Manassas,38.7514,-77.5251,Sin dato,4788,48513
+OC,AU,Airlie Beach,-20.4448,149.041,"Facebook, Inc.",4644,82396
+EU,BY,Minsk,53.9006,27.559,Republican Unitary Telecommunication Enterprise Beltelecom,4436,82178
+NA,CA,Montreal,45.5019,-73.5674,"Amazon.com, Inc.",4330,141567
+NA,US,Portland,45.5152,-122.678,"Amazon.com, Inc.",4307,65276
+NA,US,New York,40.7128,-74.006,"Facebook, Inc.",4251,77713
+AS,JP,Shibuya City,35.6764,139.65,"Amazon.com, Inc.",4249,89240
+EU,GB,London,51.5072,-0.127586,Sin dato,3987,82094
+NA,US,Secaucus,40.788,-74.0546,"Fastly, Inc.",3961,640999
+NA,US,Washington D.C.,38.9072,-77.0369,Google LLC,3958,91406
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7342,37.5859,YANDEX LLC,3924,77863
+NA,US,Ashburn,39.0438,-77.4874,Adobe Inc.,3881,36952
+NA,US,San Francisco,37.7749,-122.419,"Automattic, Inc",3729,149234
+NA,US,Wilmington (Mid-town Brandywine),39.749,-75.5461,"DoubleVerify, Inc.",3401,29958
+NA,US,Wilmington (Mid-town Brandywine),39.7483,-75.5477,Unitas Global,3349,20290
+NA,US,North Charleston,32.8769,-80.0114,Google LLC,3307,40873
+AS,KR,Seongnam-si (Pangyo-ro),37.4,127.118,KDDI KOREA,3132,15208
+AS,SG,Singapore,1.35208,103.82,Akamai International B.V.,3115,58910
+NA,US,Phoenix,33.466,-112.012,Oracle Corporation,3036,35950
+NA,CA,Saint John,45.2733,-66.0633,Xplore Inc.,3015,92768
+NA,US,San Jose,37.3387,-121.885,"PubMatic, Inc.",3015,27476
+EU,GB,London,51.5059,-0.100157,Canonical Group Limited,3004,14711
+NA,US,New York,40.7307,-73.9915,Oath Holdings Inc.,2867,28682
+NA,US,Norcross,33.9771,-84.212,Internap Holding LLC,2741,28590
+NA,US,Washington D.C.,38.9072,-77.0369,Rackspace Hosting,2702,99515
+AS,SG,Singapore,1.35208,103.82,"Akamai Technologies, Inc.",2525,56938
+NA,US,San Carlos,37.5067,-122.259,Sin dato,2367,19965
+NA,US,Secaucus,40.7824,-74.0711,"Kamatera, Inc.",2352,132513
+NA,US,Dublin,40.0992,-83.1141,"Amazon.com, Inc.",2340,28509
+NA,US,Pedro Bay,59.7872,-154.106,Oath Holdings Inc.,2331,26950
+NA,US,Seattle,47.6061,-122.333,"Leaseweb USA, Inc.",2320,43364
+NA,US,Newark,40.7357,-74.1724,Verizon Business,2274,105835
+NA,US,San Francisco,37.7749,-122.419,"PubMatic, Inc.",2253,22797
+EU,IT,Palermo,38.1157,13.3615,"Facebook, Inc.",2074,38587
+AS,JP,Shibuya City,35.6764,139.65,"Akamai Technologies, Inc.",2032,49943
+NA,US,Wilmington (Mid-town Brandywine),39.7483,-75.5477,Internap Holding LLC,1985,12988
+AS,JP,Chiyoda City,35.6916,139.768,"Rakuten Group, Inc.",1978,41453
+NA,US,Lehi,40.4349,-111.892,Adobe Inc.,1929,17151
+NA,US,Cocoa,28.354,-80.7272,Florida High Speed Internet,1909,16334
+EU,FR,Roubaix,50.6924,3.20113,OVH SAS,1901,20758
+EU,GB,London (Temple),51.5126,-0.108099,Zayo Bandwidth,1812,34701
+NA,US,New York,40.7128,-74.006,NuCDN LLC,1800,51125
+EU,FR,Paris,48.8566,2.35222,Scaleway SAS,1776,24885
+NA,US,Bellevue (Factoria),47.5787,-122.172,"Level 3 Communications, Inc.",1766,22570
+NA,US,Washington D.C.,38.9072,-77.0369,IBM Cloud,1757,17905
+NA,US,Plano,33.081,-96.8237,"Conversant, Inc.",1733,13744
+AS,VN,Hanoi,21.0278,105.834,FPT Telecom Company,1721,84589
+NA,MX,Querétaro City,20.5888,-100.39,Google LLC,1654,36800
+NA,US,Chicago (West Loop),41.879,-87.6415,"Trans Union, LLC",1654,10412
+EU,GB,London,51.5072,-0.127586,"Amazon.com, Inc.",1631,35007
+NA,US,Salt Lake City (Capitol Hill),40.7707,-111.9,"Deseret Digital Media, Inc.",1608,16866
+NA,US,Chicago (Loop),41.8782,-87.6342,Sin dato,1604,13983
+AS,CN,Wenquan,26.0998,119.297,Fuzhou,1594,63293
+EU,FR,Paris,48.8758,2.33226,Sin dato,1589,21611
+NA,US,Atlanta,33.7501,-84.3885,Twitter Inc.,1574,19603
+NA,US,New York,40.7128,-74.006,WPC,1554,38118
+NA,US,Los Angeles,34.0549,-118.243,"Leaseweb USA, Inc.",1549,24075
+NA,US,Washington D.C.,38.9072,-77.0369,XFERNET,1508,11247
+NA,US,Washington D.C.,38.9072,-77.0369,"Akamai Technologies, Inc.",1507,31548
+NA,US,New York,40.7107,-74.0123,"PaeDae, Inc.",1506,26943
+EU,DE,Frankfurt am Main,50.1109,8.68213,"Amazon.com, Inc.",1411,32824
+NA,US,New York,40.7466,-73.9811,Sin dato,1407,17142
+NA,US,Denver (Central),39.7505,-105.003,Zayo Bandwidth,1396,53399
+NA,US,New York,40.7466,-73.9811,Rocket Fuel Inc.,1394,17783
+AS,KR,Yongsan-dong (Gwacheon-daero),37.4681,126.987,LG DACOM Corporation,1375,16421
+NA,US,Austin (East Riverside - Oltorf),30.2427,-97.7217,Sin dato,1371,11072
+AS,IN,Chennai,13.0843,80.2705,"Amazon.com, Inc.",1361,19344
+AS,TH,Bangkok,13.7563,100.502,Meteverse Limited.,1312,33323
+AS,JP,Chiyoda,35.68,139.738,Yahoo Japan,1296,19227
+NA,US,Houston,29.7604,-95.3698,"Akamai Technologies, Inc.",1288,32409
+AS,VN,Hanoi,21.0278,105.834,Viettel Group,1287,13969
+EU,FR,Mérignac,44.8449,-0.656358,Orange S.A.,1279,8746
+NA,CA,Toronto (Old Toronto),43.6492,-79.3912,Toronto Internet Exchange Community,1268,3898
+NA,US,Cheyenne,41.14,-104.82,Microsoft Corporation,1266,17385
+AS,KR,Seongnam-si,37.3668,127.108,Korea Telecom,1238,14187
+NA,US,Newcastle,47.5385,-122.168,MetaPeer,1234,103325
+NA,US,Venice,27.0998,-82.4543,Sin dato,1211,30792
+NA,US,Secaucus,40.7778,-74.0759,Adform A/S,1207,11879
+NA,CA,Montreal (Mercier-Hochelaga-Maisonneuve),45.556,-73.5423,Sin dato,1180,17318
+NA,US,New York,40.7112,-74.0121,Sin dato,1178,7528
+NA,US,Chicago,41.8781,-87.6298,DEFT.COM,1157,12869
+NA,US,Emeryville,37.8376,-122.302,Sin dato,1150,17499
+NA,US,Ashburn,39.0438,-77.4874,"Leaseweb USA, Inc.",1141,8097
+NA,US,San Francisco (South of Market),37.7766,-122.417,"Fastly, Inc.",1139,12526
+NA,US,Phoenix (Paradise Valley),33.5947,-111.979,Sin dato,1132,110436
+AS,HK,Hong Kong,22.3193,114.169,Google LLC,1131,18390
+NA,US,Neosho,36.869,-94.368,MOJOHOST,1099,16163
+EU,DE,Düsseldorf (Stadtbezirk IX),51.2673,6.81752,WIIT AG,1094,10104
+AS,KR,Seoul (Sowol-ro 2-gil),37.5542,126.976,NATE Communications Corporation,1087,6307
+NA,CA,Toronto (Etobicoke),43.626,-79.5577,Sin dato,1079,6950
+NA,US,Chicago,41.8781,-87.6298,"Fastly, Inc.",1075,34092
+EU,LU,Schieren,49.8153,6.12958,JWE S.a r.l.,1058,21589
+NA,US,Miami,25.7617,-80.1918,Unitas Global,1055,26246
+EU,PL,Warsaw,52.2297,21.0122,Wirtualna Polska Media S.A.,1051,28492
+NA,US,San Rafael,38.005,-122.541,Unitas Global,1039,7108
+NA,US,Hanover (Cedar Knolls),40.8218,-74.45,"Akamai Technologies, Inc.",1038,3061
+AS,JP,Chiyoda City,35.68,139.738,Yahoo Japan Corporation,1037,11846
+NA,US,Columbus,39.9612,-82.9988,"Amazon.com, Inc.",1037,11956
+NA,US,Atlanta,33.7501,-84.3885,"Akamai Technologies, Inc.",1024,11980
+EU,DE,Berlin (Friedrichshain-Kreuzberg),52.5017,13.4143,Orange Business Digital Germany GmbH,1010,6971
+NA,US,Washington D.C.,38.9072,-77.0369,Unitas Global,1007,10344
+NA,US,Herndon,38.9351,-77.4282,"Atlantic Metro Communications II, Inc.",997,12449
+NA,US,Boydton,36.6676,-78.3875,Microsoft Corporation,995,12016
+NA,US,San Francisco (South Beach),37.7913,-122.393,New Relic,973,13405
+EU,DE,Berlin,52.52,13.405,IONOS SE,958,7682
+NA,US,Irving,32.814,-96.9489,"Akamai Technologies, Inc.",934,28858
+NA,CA,Beauharnois,45.3147,-73.8785,OVH SAS,925,20157
+AS,TR,Arnavutköy,41.0821,29.0185,Euronet Telekomunikasyon A.S.,917,22146
+NA,US,Fremont,37.5485,-121.989,"Akamai Technologies, Inc.",915,98067
+NA,US,Chicago,41.8781,-87.6298,Google LLC,907,15833
+NA,US,Teterboro,40.8618,-74.0587,Microsoft Corporation,905,23989
+NA,US,Irving (Las Colinas),32.8954,-96.9683,Sin dato,898,8569
+AS,JP,Osaka,34.6937,135.502,NTT Communications Corporation,889,6741
+AS,HK,Hong Kong,22.3193,114.169,Sin dato,889,86909
+NA,US,Westlake Village,34.1509,-118.795,"Conversant, Inc.",887,6589
+NA,CA,Toronto,43.6532,-79.3832,Aptum Technologies,887,15340
+SA,BR,Rio de Janeiro,-22.9068,-43.1729,Universo Online S.A.,879,14711
+EU,NL,Amsterdam (Amsterdam-Zuidoost),52.3484,4.91805,GTT Communications Inc.,868,11348
+AS,CN,Beijing,39.9042,116.407,Sin dato,864,50176
+NA,US,Chicago (West Loop),41.8768,-87.6501,Unitas Global,860,5669
+NA,MX,Guadalajara,20.6752,-103.347,"Akamai Technologies, Inc.",859,11253
+EU,DE,Berlin (Bezirk Mitte),52.5279,13.3795,Webtrekk GmbH,851,6461
+NA,US,Miami,25.7617,-80.1918,Akamai International B.V.,848,25820
+AS,IN,New Delhi,28.6139,77.2088,"Amazon.com, Inc.",847,27746
+EU,FR,Paris,48.8791,2.33172,Sin dato,829,10705
+OC,AU,Brisbane,-27.4705,153.026,Sin dato,823,29530
+AS,CN,Hangzhou (Shangcheng Qu),30.2374,120.171,"Hangzhou Alibaba Advertising Co.,Ltd.",812,8978
+NA,US,Mountain View,37.3861,-122.084,Google LLC,796,13049
+EU,NO,Oslo (Sentrum),59.9127,10.7318,Sin dato,780,8601
+EU,IT,Milan,45.4642,9.18998,Retelit Digital Services S.p.A.,778,57881
+EU,AT,Vienna (Hietzing),48.1759,16.2915,APA-IT Informations Technologie G.m.b.H,777,11898
+NA,US,New York,40.7685,-73.9822,Media6degrees,766,5728
+AS,TW,Neihu District,25.0717,121.576,Gamania CloudForce,750,4111
+AS,KR,Seongnam-si (Geumto-ro),37.4078,127.079,LOEN ENTERTAINMENT,747,3758
+NA,US,Duluth,34.0606,-84.1692,IBM Cloud,741,9105
+NA,US,Chicago,41.8781,-87.6298,Microsoft Corporation,737,12527
+AS,SG,Singapore,1.35208,103.82,Meteverse Limited.,731,18053
+NA,US,Chicago (Loop),41.8761,-87.6316,"PaeDae, Inc.",729,12841
+NA,CA,Montreal,45.5019,-73.5674,QIX Solutions & Services,727,210033
+AS,IN,Mumbai,18.9582,72.832,Akamai International B.V.,727,17771
+NA,US,Armonk,41.1134,-73.7204,Sin dato,723,7914
+AS,SG,Singapore,1.35208,103.82,PACKETHUB S.A.,722,11316
+NA,US,New York,40.7312,-74.0085,Sin dato,718,7028
+NA,US,Ashburn,39.0438,-77.4874,"Akamai Technologies, Inc.",706,16755
+NA,US,Tacoma,47.2529,-122.444,Cogent Communications,700,8292
+NA,US,Council Bluffs,41.2619,-95.8608,Google LLC,699,10042
+EU,AT,Vienna,48.2081,16.3713,"Akamai Technologies, Inc.",695,32561
+NA,US,Armonk,41.1134,-73.7204,IBM Cloud,677,7924
+NA,US,Ashburn,39.0438,-77.4874,"Servers.com, Inc.",673,6783
+EU,DE,Düsseldorf (Stadtbezirk IX),51.267,6.81738,WIIT AG,672,4996
+EU,NL,Amsterdam (Amsterdam-Zuidoost),52.3098,4.93525,Webzilla B.V.,663,11023
+EU,FR,Le Havre,49.4912,0.110411,OVH SAS,660,4658
+NA,US,Miami,25.7617,-80.1918,"Leaseweb USA, Inc.",657,10999
+EU,BE,Brussels,50.8476,4.35717,Google LLC,655,6057
+EU,NL,Amsterdam,52.3667,4.89454,LeaseWeb Netherlands B.V.,652,20783
+EU,RU,Moscow,55.7565,37.6819,YANDEX LLC,650,11651
+EU,DE,Frankfurt am Main,50.1109,8.68213,Apple Inc.,647,2632
+NA,US,New York,40.7128,-74.006,Incapsula Inc,635,27431
+NA,MX,Mexico City,19.4326,-99.1332,"Akamai Technologies, Inc.",634,25393
+AS,CN,Beijing,39.9042,116.407,"IDC, China Telecommunications Corporation",633,11142
+EU,RU,St Petersburg (Tsentralnyy rayon),59.9284,30.3821,LLC VK,630,22175
+NA,US,Miami,25.7792,-80.2994,Sin dato,627,6142
+NA,US,Ashburn,39.0438,-77.4874,"PaeDae, Inc.",623,11130
+NA,US,New York,40.7128,-74.006,Accretive Networks,622,15824
+NA,US,San Jose,37.3387,-121.885,IBM Cloud,619,5467
+EU,DK,Copenhagen,55.6761,12.5683,Adform A/S,617,6858
+AS,TR,Beyoğlu,41.0694,29.0044,Superonline Iletisim Hizmetleri A.S.,614,20030
+NA,US,New York,40.7685,-73.9822,"NTT America, Inc.",608,6222
+EU,IT,Rome,41.8967,12.4822,Retelit Digital Services S.p.A.,605,4625
+EU,SE,Stockholm (Bromma),59.3398,17.9397,Akamai International B.V.,604,22702
+NA,US,Dulles,38.9639,-77.4496,Microsoft Corporation,594,12795
+NA,US,Fond du Lac,43.773,-88.4471,Involta,587,2682
+EU,DE,Frankfurt am Main,50.1109,8.68213,"Akamai Technologies, Inc.",586,11013
+NA,US,San Jose,37.3387,-121.885,Internap Holding LLC,582,4949
+NA,US,Diamond Bar,33.9939,-117.839,Sin dato,578,34398
+NA,US,Ashburn,39.0438,-77.4874,"PubMatic, Inc.",575,5872
+NA,US,Edgewood,39.4187,-76.2944,Oath Holdings Inc.,572,11673
+EU,PT,Lisbon,38.7314,-9.14564,MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.,569,10350
+NA,US,Dallas,32.7767,-96.797,"Akamai Technologies, Inc.",568,3784
+EU,FR,Paris,48.8817,2.31272,OXEVA SAS,567,3257
+NA,US,Atlanta (Midtown Atlanta),33.7973,-84.3882,Sin dato,561,5508
+NA,US,Ashburn,39.0438,-77.4874,FDCservers.net,557,33025
+SA,BR,Campos Eliseos,-23.5373,-46.6455,Universo Online S.A.,554,15033
+NA,US,Wilmington (Mid-town Brandywine),39.7483,-75.5477,Sin dato,553,4152
+AS,IN,Kolkata,22.5744,88.3629,"Facebook, Inc.",552,11932
+EU,RU,Moscow,55.8032,37.5695,Komsomolskaya Pravda CJSC,552,10250
+EU,FR,Strasbourg,48.5856,7.74758,SDV6TM SAS,549,2924
+NA,US,New York,40.7177,-74.0083,GTT Communications Inc.,544,15618
+NA,CA,Toronto,43.6532,-79.3832,IBM Cloud,540,7233
+NA,US,Secaucus,40.788,-74.0546,Internap Holding LLC,539,5000
+EU,RU,Moscow,55.7558,37.6173,LLC VK,537,6428
+AS,CN,Shanghai,31.2304,121.474,China Telecom (Group),529,6564
+NA,US,Fremont,37.5148,-121.913,System In Place,529,3844
+NA,US,Los Angeles (Downtown Los Angeles),34.0479,-118.255,"VOCOM International Telecommunication, INC.",527,6398
+NA,US,New York,40.7128,-74.006,24 SHELLS,526,6478
+AS,KR,Jeju-si (Cheomdan-ro),33.455,126.571,Kakao Corp,523,2111
+AS,CN,Jinan,36.6518,117.12,CHINA UNICOM China169 Backbone,519,23576
+AS,CN,Hangzhou,30.2742,120.155,"Hangzhou Alibaba Advertising Co.,Ltd.",508,6219
+EU,RU,Moscow,55.7558,37.6173,Limited Liability Company GPM Digital Technologies,503,14807
+SA,BR,Porto Alegre,-30.0368,-51.209,"Akamai Technologies, Inc.",501,19620
+NA,US,Piscataway,40.55,-74.4758,"The Constant Company, LLC",501,4023
+AS,CN,Guangzhou,23.1317,113.266,Chinanet,501,5960
+EU,RU,Novosibirsk,54.9991,82.8903,DoubleGIS LLC,500,21148
+NA,CA,Brampton,43.7031,-79.7169,Rogers Communications,499,1238
+EU,BG,Sofia,42.6977,23.3219,Google LLC,492,8215
+NA,US,Garden City,40.7341,-73.5967,Webair Internet Development Company Inc.,486,3903
+NA,US,Los Angeles (Playa Vista),33.9751,-118.426,Verizon Business,485,11430
+NA,US,Des Moines,41.5868,-93.625,Microsoft Corporation,482,12358
+AS,SG,Singapore,1.35208,103.82,"Amazon.com, Inc.",479,6232
+NA,US,Kansas City,39.0997,-94.5786,IONOS SE,478,7692
+EU,DE,Frankfurt am Main,50.1109,8.68213,Akamai International B.V.,475,9619
+NA,US,Sterling,39.0054,-77.4457,Sin dato,472,7726
+NA,US,Las Vegas (Rhodes Ranch),36.0846,-115.293,"CenturyLink Communications, LLC",469,15327
+NA,CA,Montreal (LaSalle),45.4434,-73.618,Leaseweb Canada Inc.,468,8816
+EU,DE,Karlsruhe,49.0069,8.40365,IONOS SE,467,10163
+NA,US,Chicago,41.8781,-87.6298,TATA COMMUNICATIONS (AMERICA) INC,465,14542
+NA,US,Santa Clara,37.3986,-121.964,"Kamatera, Inc.",461,6595
+EU,NO,Oslo,59.9139,10.7522,"Amazon.com, Inc.",458,5734
+AS,IR,Tehran,35.7282,51.4258,Asiatech Data Transmission company,457,13589
+EU,GB,London (Royal Kensington and Chelsea),51.5015,-0.190615,DMG Media Limited,456,2601
+EU,NL,Amsterdam,52.3676,4.90414,Microsoft Corporation,452,9503
+AS,JP,Chuo,35.6819,139.774,Equinix (EMEA) Acquisition Enterprises B.V.,449,4898
+NA,US,Washington D.C.,38.9072,-77.0369,"Conversant, Inc.",448,3756
+NA,US,Dallas,32.7767,-96.797,IBM Cloud,447,3961
+NA,US,New York,40.7307,-73.9915,Sin dato,447,7214
+EU,IT,Milan,45.4762,9.09632,Retelit Digital Services S.p.A.,442,8455
+EU,PL,Warsaw,52.2297,21.0122,Atman Sp. z o.o.,439,5811
+NA,US,Newark,40.7357,-74.1724,"AT&T Enterprises, LLC",435,5015
+AS,JP,Chiyoda City,35.6906,139.77,NTT Communications Corporation,435,3804
+AS,JP,Chiyoda City,35.6916,139.768,SAKURA Internet Inc.,430,2625
+AS,KR,Seoul (Toegye-ro),37.5614,126.996,CDNetworks,428,43622
+NA,US,Buffalo,42.8865,-78.8784,Unitas Global,426,5977
+AS,JP,Shibuya City,35.6764,139.65,"NTT America, Inc.",425,3507
+EU,DE,Nuremberg,49.4543,11.0746,Hetzner Online GmbH,424,6545
+NA,US,Los Angeles,34.0549,-118.243,ZMTO Technologies OU,424,5462
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7373,37.6357,Sportivnye Novosti LLC,424,16651
+AS,TW,Taipei,25.0447,121.561,"Taiwan Fixed Network, Telco and Network Service Provider.",423,10862
+EU,FR,Paris,48.8743,2.32987,CCM Benchmark Group SAS,419,12916
+NA,CA,Edmonton (South Central Edmonton),53.526,-113.53,University of Alberta,418,1247
+NA,CA,Toronto (Old Toronto),43.67,-79.3794,Rogers Communications Canada Inc.,416,1169
+AS,SG,Singapore,1.35208,103.82,Criteo Corp,415,5847
+AS,JP,Chiyoda City,35.6906,139.77,Internet Initiative Japan Inc.,414,4216
+NA,CA,Vancouver (Central Vancouver),49.281,-123.117,TELUS Communications Inc.,413,1227
+AS,JP,Chiyoda,35.6916,139.768,Internet Initiative Japan Inc.,411,34984
+AS,TW,Kaohsiung City,22.6273,120.301,"Akamai Technologies, Inc.",409,6940
+NA,US,San Jose,37.3387,-121.885,Adobe Inc.,409,3445
+NA,US,Richardson,32.9483,-96.7299,"Akamai Technologies, Inc.",408,1676
+NA,US,San Francisco (Financial District),37.7928,-122.398,Internap Holding LLC,407,2578
+AS,KR,Jeju-si (Cheomdan-ro),33.455,126.571,Sin dato,406,2612
+EU,DE,Bonn,50.7406,7.0709,Sin dato,405,3509
+NA,US,Russellville,35.263,-93.0711,Sin dato,403,5116
+EU,FR,Roubaix,50.6925,3.17828,OVH SAS,403,9330
+NA,US,New York,40.7128,-74.006,Datacamp Limited,400,7269
+EU,FR,Boulogne-Billancourt,48.8339,2.25811,E-TF1 SAS,396,15915
+NA,US,Tampa (Pinecrest West Park),28.0199,-82.5246,"HIVELOCITY, Inc.",393,3421
+AS,KR,Seongnam-si (Geumto-ro),37.4078,127.079,Sin dato,392,1580
+NA,US,El Segundo,33.9263,-118.394,Cogent Communications,391,5462
+AS,JP,Shibuya City,35.6764,139.65,Akamai International B.V.,390,15643
+NA,US,San Francisco (South Beach),37.7898,-122.397,"Salesforce.com, Inc.",388,5291
+NA,US,Palo Alto (University South),37.4457,-122.161,ThreatMetrix Inc.,382,4429
+EU,NL,Amsterdam (Westpoort),52.3925,4.8336,Sin dato,377,5540
+NA,US,Ashburn,39.0438,-77.4874,Apple Inc.,377,1552
+NA,US,New York,40.7128,-74.006,"Dropbox, Inc.",377,85961
+EU,RU,Moscow,55.7006,37.6217,Rambler Internet Holding LLC,374,4812
+AS,TH,Vadhana (Khwaeng Bang Kapi),13.7476,100.567,Internet Thailand Company Ltd.,373,7517
+AS,TR,Beyoğlu,41.076,29.0128,Radore Veri Merkezi Hizmetleri A.S.,372,9686
+NA,US,Gaithersburg,39.1402,-77.2185,National Institute of Standards and Technology,371,950
+NA,US,Dallas,32.7767,-96.797,"Amazon.com, Inc.",369,7061
+NA,US,Los Angeles,34.0549,-118.243,"Facebook, Inc.",364,5839
+NA,US,Santa Clara,37.3541,-121.955,"Akamai Technologies, Inc.",363,2586
+NA,US,Buffalo,42.8943,-78.8736,B2 Net Solutions Inc.,363,51999
+NA,US,New York,40.7561,-73.9983,"LivePerson, Inc.",360,14224
+AS,TH,Bangkok,13.7563,100.502,TRUE INTERNET CORPORATION CO. LTD.,360,7580
+NA,US,Sterling,39.0067,-77.4291,Akamai International B.V.,359,7176
+NA,US,Los Angeles,34.0549,-118.243,Wave Broadband,356,7318
+NA,CA,Toronto,43.6548,-79.3885,"DigitalOcean, LLC",356,932
+NA,US,Los Angeles (Downtown Los Angeles),34.0479,-118.256,Hurricane Electric LLC,354,31343
+NA,US,Atlanta,33.7488,-84.3877,Google LLC,353,5732
+NA,US,Philadelphia,39.9526,-75.1652,"Akamai Technologies, Inc.",351,8557
+AS,HK,Wan Chai,22.2791,114.174,Chinanet,350,23553
+EU,IT,Assago,45.4094,9.15114,Italiaonline S.p.A.,347,6183
+EU,RU,St Petersburg,59.9859,30.2527,LLC AdRiver,346,3045
+EU,PL,Torun (Rudak),52.9893,18.6661,DATASPACE P.S.A.,346,5912
+EU,DE,Karlsruhe,49.0069,8.40365,TelemaxX Telekommunikation GmbH,345,3769
+NA,US,Elk Grove Village,41.9951,-87.9622,CacheFly,345,11925
+NA,US,Lehi,40.4349,-111.892,"Amazon.com, Inc.",344,3433
+EU,DE,Berlin (Friedrichshain-Kreuzberg),52.5125,13.4313,Immobilien Scout GmbH,343,8109
+SA,EC,Quito,-0.293029,-78.5384,MOJOHOST,341,16375
+NA,US,The Dalles,45.6018,-121.185,Google LLC,338,2389
+NA,US,Seattle,47.6061,-122.333,"Akamai Technologies, Inc.",335,6452
+NA,US,Phoenix,33.4483,-112.073,"Leaseweb USA, Inc.",334,5211
+NA,CA,Winnipeg (Portage & Main),49.8945,-97.1356,LES.NET,333,998
+NA,US,Los Angeles (Sawtelle),34.0345,-118.457,"Level 3 Communications, Inc.",331,4086
+AS,TW,Taipei,25.0334,121.566,"Chunghwa Telecom Co., Ltd.",330,12394
+EU,DE,Frankfurt am Main,50.1109,8.68213,Hetzner Online GmbH,330,4548
+AS,HK,Tseung Kwan O,22.3119,114.257,Akamai International B.V.,328,6404
+NA,US,New York,40.7128,-74.006,TATA COMMUNICATIONS (AMERICA) INC,328,10286
+NA,US,Ashburn,39.0438,-77.4874,Microsoft Corporation,327,18362370
+EU,GB,Tankersley,53.4875,-1.49352,HSBC Bank plc,326,17775
+AS,JP,Chiyoda City,35.6916,139.768,Equinix (EMEA) Acquisition Enterprises B.V.,325,8939
+NA,US,Boston,42.3601,-71.0589,Unitas Global,322,2911
+NA,US,Chicago (Near South Side),41.8536,-87.6183,"Reflected Networks, Inc.",321,11832
+OC,AU,Sydney,-33.8688,151.209,"Akamai Technologies, Inc.",319,6419
+EU,DE,Berlin,52.52,13.405,Awin SAS,319,1988
+NA,US,Buffalo (Downtown),42.893,-78.8753,HostPapa,318,2323
+NA,US,El Segundo,33.9156,-118.385,Cogent Communications,317,2742
+NA,CA,Victoria,48.4532,-123.376,Stargate Connections Inc.,316,984
+NA,US,Newark,40.7357,-74.1724,Microsoft Corporation,315,11188
+NA,US,Clifton,40.8302,-74.1299,"DigitalOcean, LLC",313,3218
+NA,US,Sterling,39.0067,-77.4291,Criteo Corp.,311,4123
+EU,PL,Warsaw (Mokotów),52.1848,21.0006,Efigence S.A.,308,9956
+NA,US,New York,40.7128,-74.006,"Swiftwill, Inc.",306,4693
+NA,US,Chicago (West Loop),41.8768,-87.6501,Sin dato,304,2237
+EU,DE,Düsseldorf,51.223,6.78245,"Amazon.com, Inc.",299,12419
+AS,CN,Chaowai (Chaoyang),39.959,116.455,Sin dato,297,22019
+NA,US,Bellevue (Factoria),47.5787,-122.172,"RhythmOne, LLC",292,2304
+NA,US,Phoenix,33.4483,-112.073,CBS Interactive Inc.,290,8597
+EU,FR,Paris,48.8575,2.35138,WEBORAMA SA,289,2763
+NA,US,Seattle,47.6062,-122.332,PACKETHUB S.A.,289,4425
+EU,DE,Frankfurt am Main (Frankfurt-Ost),50.1396,8.743,firstcolo GmbH,288,4607
+NA,US,New York,40.7128,-74.006,"NTT America, Inc.",287,8933
+NA,US,New York,40.7088,-74.0068,"Cloudflare, Inc.",286,1743
+AS,JP,Chiyoda City,35.6916,139.768,IDC Frontier Inc.,284,55173
+EU,DE,Frankfurt am Main,50.1109,8.68213,IONOS SE,283,3504
+NA,US,New York,40.7128,-74.006,Microsoft Corporation,283,5015
+AS,ID,Jakarta,-6.19445,106.823,"Amazon.com, Inc.",281,5495
+AS,KR,Seongnam-si (Buljeong-ro),37.3654,127.122,Korea Telecom,275,9948
+NA,US,Waltham (Banks Square),42.376,-71.2397,"Reflected Networks, Inc.",275,2802
+EU,PL,Dąbrowa Górnicza,50.3162,19.1885,DG-NET SA,274,14581
+NA,US,San Jose (Greylands),37.2944,-121.93,"eBay, Inc",272,5211
+NA,US,Seattle (Downtown Seattle),47.6157,-122.336,"Amazon.com, Inc.",271,4060
+NA,US,Ashburn,39.0438,-77.4874,"Facebook, Inc.",271,3762
+AS,JP,Chiyoda City,35.6916,139.768,Sin dato,270,6815
+NA,CA,Vancouver,49.2827,-123.121,"Akamai Technologies, Inc.",269,2261
+EU,GB,London,51.5072,-0.127586,IOMART CLOUD SERVICES LIMITED,269,1696
+EU,UA,Kyiv,50.4504,30.5245,"Internet Invest, Ltd.",269,11405
+NA,US,San Jose,37.3387,-121.885,"Conversant, Inc.",266,1862
+AS,JP,Chiyoda City (3-chōme),35.6838,139.739,ACCELIA,266,20767
+AS,KR,Yongsan-dong (Eonju-ro),37.5056,127.041,"NTT America, Inc.",264,1054
+NA,US,Cambridge (East Cambridge),42.3649,-71.0888,Sin dato,264,1098
+NA,US,Secaucus,40.788,-74.0546,Cogent Communications,263,2008
+AS,JP,Bunkyō City,35.7006,139.765,"SECOM Trust Systems Co.,Ltd.",263,1035
+AS,JP,Chiyoda City,35.6906,139.77,IDC Frontier Inc.,263,3039
+EU,GB,Leeds,53.7931,-1.54087,(aq) networks limited,262,1675
+OC,AU,Brisbane,-27.4705,153.026,"Akamai Technologies, Inc.",262,5409
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7394,37.6246,EDINAYA SET LIMITED LIABILITY COMPANY,261,2330
+AS,CN,Hangzhou,30.0464,119.954,Chinanet,261,3432
+NA,HN,Puerto Cortez (Sector 1),15.8557,-87.9448,OVH SAS,261,700
+NA,US,Las Vegas,36.1716,-115.139,"Akamai Technologies, Inc.",260,16831
+EU,RU,Moscow,55.7558,37.6173,Rambler Internet Holding LLC,260,4470
+AS,CN,Beijing,39.9042,116.407,China Unicom Beijing Province Network,260,3692
+NA,US,New York,40.7128,-74.006,Dosarrest Internet Security LTD,259,5250
+EU,RU,St Petersburg,59.9594,30.2948,Omnichannel technologies LLC,258,6025
+AS,CN,Huzhou,30.8628,120.247,Chinanet,257,5297
+NA,US,Quincy,47.2343,-119.853,Microsoft Corporation,254,7639
+NA,US,San Jose,37.3387,-121.885,Microsoft Corporation,254,9558
+EU,FR,Paris,48.8575,2.35138,Worldline SA,252,5555
+AS,IR,Tehran (District 3),35.7676,51.4228,Fannavaran-e Idea Pardaz-e Saba PJSC,251,3604
+SA,AR,Buenos Aires (Palermo),-34.5752,-58.4359,Telecom Argentina S.A.,251,3995
+NA,US,Redmond (Overlake),47.6423,-122.137,Microsoft Corporation,250,2939
+EU,DE,Frankfurt am Main,50.1109,8.68213,"Facebook, Inc.",249,5015
+NA,US,Fort Lauderdale (South Fort Lauderdale),26.1219,-80.1417,Webzilla Inc.,248,6776
+NA,US,New York,40.7128,-74.006,"CenturyLink Communications, LLC",248,4296
+AS,CN,Chongqing,29.5657,106.551,CHINA UNICOM China169 Backbone,248,4877
+NA,US,Chicago,41.8781,-87.6298,"Servers.com, Inc.",246,19334
+EU,RU,Moscow,55.795,37.6014,JSC ADFACT,246,2786
+EU,IT,Milan,45.4642,9.18998,"Akamai Technologies, Inc.",246,4832
+EU,GB,Manchester,53.4728,-2.2465,Sin dato,242,2497
+NA,US,Gaithersburg,39.1402,-77.2185,National Oceanic and Atmospheric Administration,242,644
+NA,CA,Toronto (North York),43.726,-79.3491,EGATE NETWORKS INC.,241,628
+SA,EC,Quito,-0.292032,-78.5696,Otecel S.A.,239,1793
+EU,RU,Moscow,55.7569,37.6151,PJSC MegaFon,237,12408
+NA,US,Phoenix,33.466,-112.012,Unified Layer,236,5692
+NA,US,Santa Clara,37.3598,-121.981,"DigitalOcean, LLC",236,669
+EU,IE,Dublin,53.3498,-6.26031,"Facebook, Inc.",236,4535
+NA,US,San Francisco (Mission Bay),37.7783,-122.393,"Unitedlayer, Inc.",234,5854
+AS,CN,Guangzhou (Yuexiu Qu),23.125,113.291,Chinanet,232,4187
+EU,NL,Amsterdam,52.3676,4.90414,"PHOENIX NAP, LLC.",231,2540
+EU,GR,Nea Ionia,38.0437,23.7602,Skroutz Internet Services S.A.,230,4476
+NA,US,Fort Worth,32.788,-97.3471,Bidtellect Inc.,230,4028
+NA,US,Dallas,32.8175,-96.8731,"CoreSpace, Inc.",230,6175
+NA,US,New York,40.7085,-74.0073,NYI,229,1730
+AS,CN,Shanghai,31.2304,121.474,Shenzhen Tencent Computer Systems Company Limited,228,3852
+NA,US,Ashburn,39.0438,-77.4874,LinkedIn Corporation,227,2830
+NA,US,Atlanta,33.7501,-84.3885,Akamai International B.V.,227,9194
+NA,US,Edison,40.5187,-74.4121,Akamai International B.V.,226,3899
+EU,DE,Frankfurt am Main (Innenstadt I),50.1113,8.71743,"The Constant Company, LLC",226,675
+NA,US,Dallas,32.7767,-96.797,"Leaseweb USA, Inc.",225,3657
+NA,US,Salem,38.627,-88.9456,"DigitalOcean, LLC",225,2876
+AS,ID,South Jakarta,-6.26149,106.811,Sin dato,224,2603
+EU,NL,Amsterdam,52.3676,4.90414,LeaseWeb Netherlands B.V.,222,1654
+AS,KR,Yongsan-dong (Hangang-daero),37.5379,126.97,LG DACOM Corporation,219,1351
+NA,US,Santa Clara,37.3541,-121.955,Akamai International B.V.,218,5767
+AS,ID,Utan,-6.17694,106.947,BIZNET NETWORKS,218,4603
+NA,US,Seattle (Downtown Seattle),47.6051,-122.334,"Docusign, Inc",216,6853
+AS,CN,Zhengzhou,34.7472,113.625,CHINA UNICOM China169 Backbone,215,6614
+EU,UA,Kyiv,50.4451,30.5102,UkrNet Ltd.,215,4114
+NA,US,Dallas,32.9363,-96.8231,IBM Cloud,214,29048
+EU,DE,Bonn (Beuel),50.719,7.14954,Sin dato,214,4782
+EU,FR,Paris,48.8566,2.35222,OVH SAS,213,2419
+EU,SE,Stockholm,59.3293,18.0686,Akamai International B.V.,212,19334
+EU,NL,Amsterdam,52.3676,4.90414,Internap Holding LLC,212,1457
+NA,US,Seattle,47.6061,-122.333,"Amazon.com, Inc.",211,6665
+NA,US,El Segundo,33.9192,-118.416,"Akamai Technologies, Inc.",211,3971
+AS,SG,Singapore (Outram),1.27998,103.842,LEASEWEB SINGAPORE PTE. LTD.,208,1747
+NA,US,Seattle,47.6061,-122.333,"NetActuate, Inc",208,1285
+AS,CN,Chaowai (Chaoyang),39.9077,116.542,"Beijing Dian-Xin-Tong Network Technologies Co., Ltd.",208,2282
+NA,US,New York,40.7128,-74.006,"Fastly, Inc.",207,2300
+NA,CA,Vancouver,49.2827,-123.121,Fortinet Inc.,207,3215
+AS,IR,Tehran (District 6),35.7358,51.4155,Sadad Informatics Corporation PJSC,207,13482
+EU,IT,Milan,45.4771,9.22098,Retelit Digital Services S.p.A.,206,5494
+EU,PL,Warsaw,52.2297,21.0122,MBANK S.A.,206,29710
+NA,US,San Mateo (Downtown),37.5619,-122.325,Sin dato,204,10002
+NA,US,Menifee,33.6831,-117.17,Sucuri,204,2652
+AS,CN,Hangzhou,30.2742,120.155,CHINA UNICOM China169 Backbone,204,2748
+NA,US,North Bergen,40.7969,-74.0311,"AppNexus, Inc",204,3174
+AS,JP,Osaka,34.6937,135.502,"Akamai Technologies, Inc.",203,13602
+AS,MY,Kuala Lumpur,3.13192,101.684,"Akamai Technologies, Inc.",202,34041
+NA,US,San Jose,37.3387,-121.885,"Akamai Technologies, Inc.",202,3591
+NA,US,New York,40.7561,-73.9983,Google LLC,201,3607
+EU,RU,St Petersburg,59.9344,30.3014,"\"PJSC \"\"Vimpelcom\"\"\"",201,3042
+NA,US,Baltimore,39.3113,-76.7258,Social Security Administration,200,3554
+NA,US,New York,40.7605,-73.9831,Barclays Capital Inc.,200,5100
+AS,KR,Naju (Jinheung-gil),35.0185,126.795,NATE Communications Corporation,197,1506
+EU,FR,Paris,48.8575,2.35138,TESSI TECHNOLOGIES SASU,197,11710
+AS,JP,Chiyoda City,35.6906,139.77,KDDI CORPORATION,196,3688
+NA,CA,Toronto (North York),43.703,-79.4579,Index Exchange Inc.,194,1663
+EU,RU,Moscow,55.7224,37.695,Data Storage Center JSC,194,2200
+NA,US,Inglewood,33.9618,-118.353,Charter Communications Inc,193,2897
+AS,TW,Taoyuan,25.0797,121.234,Google LLC,193,6323
+EU,NL,Amsterdam (Amsterdam Nieuw-West),52.3406,4.83036,IBM Cloud,192,1401
+EU,NL,Amsterdam,52.3563,4.95714,"DigitalOcean, LLC",192,1493
+NA,US,Westlake Village,34.1451,-118.806,VS Media Inc.,191,5747
+EU,PL,Poznan (Wilda),52.4001,16.9208,Allegro sp. z o.o.,190,4915
+EU,ES,Madrid,40.4168,-3.70379,Banco de Sabadell SA,190,2545
+AS,SG,Singapore,1.35208,103.82,Shenzhen Tencent Computer Systems Company Limited,190,1976
+AS,JP,Osaka,34.6827,135.499,SAKURA Internet Inc.,188,1169
+OC,NZ,Auckland,-36.8509,174.764,Akamai International B.V.,188,8292
+EU,CH,Meyrin,46.2266,6.0565,Hewlett Packard International Sarl,188,2532
+EU,FR,Levallois-Perret,48.897,2.28739,MEDIAMETRIE S.A.,188,1447
+EU,PL,Warsaw (Włochy),52.2015,20.9376,Wirtualna Polska Media S.A.,188,2361
+EU,FR,Paris,48.8534,2.37754,Mappy SA,186,4879
+NA,US,Chicago,41.8781,-87.6298,Rackspace Hosting,186,5002
+AS,KR,Seoul (Toegye-ro),37.5614,126.996,BROADBANDIDC,186,6250
+EU,CZ,Prague,50.0711,14.4008,"Seznam.cz, a.s.",186,4640
+NA,US,New York,40.7573,-73.9829,Sin dato,186,1338
+AS,CN,Guangzhou,23.1317,113.266,"China Mobile Communications Group Co., Ltd",185,2855
+NA,US,Cambridge (Area 2/MIT),42.3643,-71.0891,GTT Communications Inc.,184,24209
+EU,IT,Milan,45.4976,9.16745,Retelit Digital Services S.p.A.,184,3774
+NA,US,Herndon,38.9554,-77.4258,Charter Communications Inc,183,6675
+AS,JP,Chiyoda City,35.6916,139.768,ARTERIA Networks Corporation,183,2012
+NA,US,Lincoln (Downtown),40.812,-96.7023,"Binary Net, LLC",183,454
+NA,US,Houston,29.7604,-95.3698,Charter Communications Inc,183,15929
+NA,CA,North Vancouver,49.3164,-123.069,Shaw Communications,183,499
+EU,SE,Stockholm (Norrmalm),59.3323,18.0527,"Amazon.com, Inc.",182,10639
+NA,US,Boulder,40.0063,-105.27,University of Colorado at Boulder,181,436
+EU,RU,Moscow,55.7496,37.6237,EDINAYA SET LIMITED LIABILITY COMPANY,180,1792
+NA,US,Seattle (Downtown Seattle),47.6103,-122.334,Internap Holding LLC,179,5534
+NA,US,Boston,42.3601,-71.0589,Verizon Business,178,1888
+EU,NL,Amsterdam (Amsterdam-Zuidoost),52.3098,4.93525,"Servers.com, Inc.",178,3030
+NA,US,Miami (Brickell),25.7639,-80.1906,Unitas Global,178,1011
+AS,TR,Istanbul,41.0082,28.9784,Turkiye Garanti Bankasi A.S.,178,7787
+AS,JP,Chiyoda City,35.694,139.754,"Xenon Ventures, LLC",176,1937
+AS,JP,Minato,35.665,139.745,ITOCHU Techno-Solutions Corporation,176,2684
+NA,US,Baltimore,39.2904,-76.6122,Verizon Business,176,442
+NA,US,Katy,29.8029,-95.7558,"NEW CCH, LLC",175,5475
+NA,US,Lehi,40.4342,-111.89,"Amazon.com, Inc.",174,1496
+NA,US,Palo Alto (Downtown North),37.4449,-122.164,Sin dato,174,2240
+EU,RU,St Petersburg,59.9637,30.3119,Atlantic LLC.,174,1388
+AS,JP,Chiyoda City,35.6906,139.77,SoftBank Corp.,173,16333
+AF,ZA,Randburg (Ferndale),-26.0963,28.0031,First Rand Bank Limited,173,8213
+AS,CN,Nanjing,32.0607,118.763,China Telecom,172,22295
+NA,CA,Toronto,43.6532,-79.3832,"Level 3 Communications, Inc.",172,2582
+NA,US,North Bergen,40.8054,-74.0241,"DigitalOcean, LLC",171,3014
+EU,FR,Marseille,43.2965,5.36978,"Amazon.com, Inc.",171,4267
+AS,CN,Zhangzhou (Neimeng),24.6391,117.199,CHINA UNICOM China169 Backbone,171,6147
+AF,ZA,Cape Town,-33.9249,18.4241,"Akamai Technologies, Inc.",171,3104
+AS,CN,Taiyuan,37.8706,112.551,CHINA UNICOM China169 Backbone,170,2687
+NA,US,El Segundo,33.9192,-118.416,"Hypermedia Systems, Inc.",170,6991
+NA,US,Chicago,41.8781,-87.6298,Sin dato,168,9204
+NA,US,Miami,25.7617,-80.1918,"Telefonica Global Solutions USA, INC",168,5106
+EU,NO,Oslo,59.9355,10.7206,Norsk Rikskringkasting AS,167,2327
+AS,TR,Esenyurt,41.0413,28.6941,ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.,166,6149
+EU,GB,London,51.5072,-0.127586,"Akamai Technologies, Inc.",166,3116
+EU,DE,Falkenstein,50.475,12.365,Hetzner Online GmbH,164,1660
+AS,ID,Jakarta,-6.23213,106.832,PT. Cyberindo Mega Persada,164,4403
+EU,RU,Moscow,55.7558,37.6173,"\"PJSC \"\"Vimpelcom\"\"\"",163,7224
+NA,US,Franklin,42.8618,-87.9828,"Wisconsin CyberLynk Network, Inc.",162,432
+EU,CZ,Prague (Praha 11),50.039,14.4759,T-Mobile Czech Republic a.s.,160,1117
+NA,CA,Toronto (Old Toronto),43.661,-79.3997,University of Toronto,160,462
+EU,PL,Gdańsk,54.3696,18.6082,Wirtualna Polska Media S.A.,160,4629
+EU,IE,Dublin,53.3498,-6.26031,Microsoft Corporation,159,2056
+NA,US,Sterling,39.0067,-77.4291,"Akamai Technologies, Inc.",159,4048
+NA,US,Pullman,46.7502,-117.167,"Schweitzer Engineering Laboratories, Inc.",158,420
+EU,DE,Frankfurt am Main,50.1109,8.68213,Deutsche Bank AG,156,17994
+NA,US,Bloomfield (Brookdale),40.8384,-74.1813,NuCDN LLC,156,4571
+AS,TR,Istanbul,41.0082,28.9784,Radore Veri Merkezi Hizmetleri A.S.,155,2621
+EU,FR,Gravelines,50.9871,2.12554,OVH SAS,155,874
+NA,US,Bentonville (Downtown Bentonville),36.3653,-94.2177,Sin dato,154,2348
+NA,CA,Windsor,42.3149,-83.0364,Cogeco Connexion Inc.,154,366
+EU,RU,Moscow,55.6383,37.5962,QIWI JSC,153,9542
+AS,HK,Hong Kong,22.3193,114.169,"Alibaba (US) Technology Co., Ltd.",153,1149
+NA,US,San Diego (Hillcrest),32.7503,-117.163,Sin dato,153,1631
+AS,TR,Esenyurt,41.0343,28.6615,Turk Telekomunikasyon Anonim Sirketi,152,6021
+AS,KR,Yongsan-dong,37.5503,126.997,"Amazon.com, Inc.",151,1682
+NA,US,Washington D.C.,38.9072,-77.0369,"Amazon.com, Inc.",150,2326
+NA,US,San Francisco,37.7749,-122.419,Chatango LLC,150,4641
+NA,CA,Toronto,43.6532,-79.3832,"TekSavvy Solutions, Inc.",149,408
+NA,US,Washington D.C. (Northwest Washington),38.8967,-77.0239,Zayo Bandwidth,148,1053
+NA,US,Newark (Central Ward),40.7368,-74.1734,OVH SAS,148,645
+NA,US,Buffalo,42.8809,-78.8836,Sin dato,148,1796
+NA,US,New York,40.7685,-73.9822,Akamai International B.V.,147,3460
+NA,US,North Bergen,40.8043,-74.0121,Media6degrees,147,779
+NA,US,Miramar,25.9769,-80.3451,"Claro Enterprise Solutions, LLC",146,1873
+EU,NL,Amsterdam,52.3676,4.90414,"Level 3 Communications, Inc.",145,2197
+NA,US,San Jose (Berryessa),37.3882,-121.888,"Leaseweb USA, Inc.",144,18162
+AS,CN,Wuhan,30.5928,114.305,Chinanet,143,2384
+AS,SG,Singapore,1.35208,103.82,Internap Holding LLC,142,919
+EU,AT,Vienna (Mariahilf),48.1984,16.3604,APA-IT Informations Technologie G.m.b.H,142,990
+NA,US,New York,40.7128,-74.006,Sin dato,141,736
+NA,US,Ashburn,39.0149,-77.482,"Latisys-Ashburn, LLC",141,1259
+AS,CN,Jilin City,43.8378,126.549,CHINA UNICOM China169 Backbone,141,14637
+NA,US,Redwood City (Redwood Shores),37.5308,-122.262,Sin dato,140,3025
+NA,US,Salt Lake City,40.7608,-111.891,"GorillaServers, Inc.",140,324
+NA,US,Piscataway,40.5549,-74.4643,Akamai International B.V.,140,3065
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7426,37.6252,EDINAYA SET LIMITED LIABILITY COMPANY,140,1741
+NA,US,Carrollton (Northwest Carrollton),32.992,-96.9303,CyrusOne LLC,140,1197
+EU,BE,Zaventem,50.871,4.47636,OVH SAS,140,4291
+EU,FR,Roubaix,50.6916,3.20151,OVH SAS,139,1716
+AS,HK,Tseung Kwan O,22.3119,114.257,"Akamai Technologies, Inc.",138,5730
+EU,ES,Madrid,40.4168,-3.70379,Google LLC,138,2400
+EU,DE,Frankfurt am Main,50.1109,8.68213,Sin dato,138,1718
+AS,TR,Arnavutköy,41.1142,29.0191,Euronet Telekomunikasyon A.S.,137,1874
+NA,US,Culver City,34.0066,-118.394,Sin dato,137,1489
+AS,JP,Chiyoda,35.6916,139.768,ARTERIA Networks Corporation,137,565
+EU,NL,Utrecht,52.0907,5.12142,Sin dato,137,10022
+NA,CA,Toronto,43.6532,-79.3832,"Akamai Technologies, Inc.",136,1515
+NA,US,Atlanta (Peachtree Center),33.7615,-84.3914,Internap Holding LLC,136,1327
+SA,BR,Fortaleza,-3.73272,-38.527,Akamai International B.V.,135,928
+NA,US,New York,40.7089,-74.0113,Sin dato,135,8020
+EU,RU,Razvilka,55.5785,37.7377,LLC Wildberries,134,8725
+EU,NL,Roosendaal,51.5359,4.46532,NForce Entertainment B.V.,134,4142
+EU,IT,Milan,45.4642,9.18998,Tiscali Italia S.P.A.,134,2684
+EU,RU,Moscow,55.7558,37.6173,Arelion Sweden AB,134,1209
+EU,GB,London,51.5155,-0.108711,Canonical Group Limited,134,176226
+NA,US,Miami (Downtown Miami),25.7732,-80.19,FDCservers.net,133,3400
+AS,IR,Tehrān (District 3),35.7808,51.4361,Aria Shatel PJSC,133,11310
+NA,US,Chattanooga,35.0458,-85.3094,Oath Holdings Inc.,133,2287
+NA,US,Mountain View,37.422,-122.084,Google LLC,133,2549
+AS,KR,Seongnam-si (Bundang-gu),37.4014,127.108,GABIA Inc.,132,611
+AS,ID,Surabaya,-7.25747,112.752,Telekomunikasi Indonesia (PT),132,8679
+NA,US,New York,40.7309,-73.9918,Oath Holdings Inc.,132,1758
+EU,DE,Regensburg,49.0162,12.1201,R-KOM Regensburger Telekommunikationsgesellschaft mbH,132,1039
+EU,NL,Utrecht (Leidsche Rijn),52.0656,5.09094,bol.com BV,132,6601
+AS,KR,Changwon-si (Yongji-dong),35.2416,128.708,"Akamai Technologies, Inc.",131,1913
+NA,US,Ashburn,39.0438,-77.4874,"NetActuate, Inc",131,880
+NA,US,Atlanta,33.7488,-84.3877,Performive LLC,130,1404
+AS,CN,Guangzhou,23.1317,113.266,China Unicom Guangdong IP network,128,3174
+NA,US,New York,40.7446,-73.9865,"Amazon.com, Inc.",127,1931
+AS,IN,New Delhi (Sansad Marg Area),28.6205,77.2136,National Knowledge Network,126,11427
+NA,CA,Montreal,45.5019,-73.5674,Hurricane Electric LLC,126,348
+NA,US,Denver,39.7392,-104.99,Akamai International B.V.,126,4207
+EU,FR,Paris,48.8575,2.35138,Orange Business Services SA,126,12601
+AS,CN,Hangzhou,30.2742,120.155,Chinanet,126,3298
+AS,CN,Jinrongjie (Xicheng District),39.9072,116.357,CHINA UNICOM China169 Backbone,126,2473
+AS,IN,New Delhi (Janpath),28.6295,77.2185,Unique Identification Authority of India,125,10697
+EU,PL,Warsaw,52.2297,21.0122,GEMIUS SA,125,1798
+EU,DE,Erlangen,49.596,11.0052,NorthC Deutschland GmbH,125,2440
+AS,CN,Shenyang,41.8048,123.433,CHINA UNICOM China169 Backbone,124,3159
+NA,US,Los Angeles (Downtown Los Angeles),34.0483,-118.255,FDCservers.net,124,4974
+EU,NL,Amsterdam,52.3676,4.90414,"Dropbox, Inc.",124,2391
+NA,US,Bellevue (Northwest Bellevue),47.6176,-122.2,"Amazon.com, Inc.",123,584
+AS,CN,Wanghailou (Hebei Qu),39.1483,117.203,CHINA UNICOM China169 Backbone,123,10444
+NA,US,Chicago,41.8781,-87.6298,"Reflected Networks, Inc.",123,1459
+EU,PL,Warsaw (Mokotów),52.2105,21.0216,Powszechna Kasa Oszczednosci Bank Polski SA,123,4664
+NA,US,Ashburn,39.0438,-77.4874,Unitas Global,123,1129
+EU,FR,Puteaux,48.8926,2.23961,OVH SAS,123,7395
+EU,RU,Moscow,55.7185,37.5956,Rambler Internet Holding LLC,123,7807
+AS,IN,New Delhi,28.6139,77.2088,Akamai International B.V.,123,2159
+NA,US,Durham,35.9259,-78.8457,IBM Cloud,123,804
+EU,PL,Warsaw,52.2297,21.0122,Akamai International B.V.,122,1371
+EU,PL,Wroclaw (Krzyki),51.098,17.0321,OVH SAS,122,3180
+AS,KR,Yongsan-dong,37.5503,126.997,Akamai International B.V.,122,4975
+NA,US,San Francisco (South Beach),37.7823,-122.391,"GitHub, Inc.",120,1507
+AS,CN,Wenquan,26.0998,119.297,CHINA UNICOM China169 Backbone,120,6084
+EU,NL,Amsterdam (Amsterdam-Zuidoost),52.3098,4.93535,"Servers.com, Inc.",120,5391
+AS,TW,Neihu District,25.0611,121.587,"Akamai Technologies, Inc.",120,15123
+EU,ES,La Rinconada,37.5063,-5.92512,Comvive Servidores S.L.,120,2203
+NA,US,San Antonio,29.4252,-98.4946,Aptum Technologies,120,312
+AS,CN,Beijing,39.9042,116.407,Beijing Guanghuan Xinwang Digital,119,4498
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7426,37.6252,JSC Selectel,119,1351
+NA,US,Dallas,32.7767,-96.797,Akamai International B.V.,118,3381
+EU,LU,Luxembourg,49.6272,6.1607,G-Core Labs S.A.,118,4421
+NA,US,Dallas,32.7767,-96.797,Sin dato,118,21779
+NA,US,Miami,25.7617,-80.1918,"NetActuate, Inc",118,663
+NA,US,Lehi,40.4226,-111.883,Sin dato,118,1093
+EU,NL,Amsterdam,52.3676,4.90414,PurePeak Ltd.,117,911
+AS,CN,Xiamen,24.4795,118.089,CHINA UNICOM China169 Backbone,117,4429
+AS,ID,Jakarta,-6.18954,106.805,Sin dato,117,1521
+NA,MX,Querétaro City,20.5888,-100.39,Akamai International B.V.,117,5278
+EU,FR,Paris,48.84,2.3702,BPCE S.A.,117,18144
+EU,DE,Düsseldorf,51.223,6.78245,"Akamai Technologies, Inc.",116,704
+EU,RU,Moscow (Vostochnyy administrativnyy okrug),55.8009,37.7141,JSC Mastertel,116,2023
+NA,US,Irvine (Irvine Business Complex),33.6729,-117.849,Sin dato,116,1742
+EU,CZ,Vestec (Praha 11),50.039,14.4759,T-Mobile Czech Republic a.s.,116,788
+NA,US,Los Angeles,34.0522,-118.244,Beijing Qihu Technology Company Limited,116,972
+NA,US,Wilmington,39.7578,-75.6069,"NTT America, Inc.",116,1534
+NA,US,Salt Lake City,40.7608,-111.891,"eBay, Inc",115,2424
+NA,US,Sunnyvale (Sunnyvale West),37.3928,-122.042,LinkedIn Corporation,115,1562
+NA,US,New York,40.7267,-73.9992,"Trit Networks, LLC",115,379
+NA,US,Newtown Square,39.9878,-75.416,Sin dato,114,1069
+EU,IT,Palermo,38.1157,13.3615,TELECOM ITALIA SPARKLE S.p.A.,114,1243
+NA,CA,Montreal (Le Plateau-Mont-Royal),45.5258,-73.5986,i3D.net B.V,114,4269
+EU,RU,Moscow,55.7039,37.6238,Rambler Internet Holding LLC,114,1885
+AS,KR,Naju (Jinheung-gil),35.0185,126.795,NAVER Cloud Corp.,113,2953
+NA,US,San Jose,37.3387,-121.885,Akamai International B.V.,113,1929
+NA,US,Chicago (Loop),41.8867,-87.6291,Rackspace Hosting,112,2037
+NA,US,Washington D.C.,38.9072,-77.0369,DataWeb Global Group B.V.,111,1673
+EU,RU,Moscow,55.7972,37.5378,LLC VK,111,1426
+AS,KR,Seoul (Toegye-ro),37.5614,126.996,SK Broadband Co Ltd,111,3422
+NA,US,Ashburn,39.0438,-77.4874,TATA COMMUNICATIONS (AMERICA) INC,110,262
+EU,FR,Paris,48.8817,2.31271,OXEVA SAS,110,951
+EU,RU,St Petersburg,59.9311,30.3609,JSC Selectel,110,1045
+NA,US,New York,40.7446,-73.9865,Sin dato,110,2081
+NA,US,Stanford,37.4295,-122.178,Stanford University,110,3288
+EU,RU,Moscow,55.7558,37.6173,YANDEX LLC,109,2311
+NA,US,Hartford,43.3175,-88.3775,Netwurx LLC,109,266
+EU,FR,Alixan,44.9872,4.97508,OVH SAS,109,749
+EU,FR,Paris,48.8575,2.35138,OVH SAS,109,1270
+EU,RU,Moscow,55.7075,37.6185,Centre of server systems Ltd,109,1075
+EU,GB,Knowsley,53.4546,-2.85291,Virgin Media Limited,108,10889
+EU,RU,Moscow,55.7558,37.6173,"\"\"\"Cloud Technologies\"\" LLC trading as Cloud.ru\"",108,1510
+EU,RU,Moscow,55.8078,37.5383,"Stack Group, LLC",108,1365
+NA,US,Foster City (East San Mateo),37.556,-122.281,Cogent Communications,108,336
+EU,NL,Amsterdam,52.3676,4.90414,NForce Entertainment B.V.,108,1105
+NA,US,San Francisco (South of Market),37.7898,-122.397,"Salesforce.com, Inc.",108,1046
+EU,PL,Warsaw,52.2297,21.0122,Redge Technologies sp. z o.o.,108,1393
+AS,IR,Tehran (District 7),35.7242,51.4259,NOAVARAN SHABAKEH SABZ MEHREGAN (Ltd.),107,1360
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7394,37.6249,EDINAYA SET LIMITED LIABILITY COMPANY,107,2004
+EU,FR,Paris,48.8575,2.35138,Numberly SASU,106,1045
+NA,US,Arlington Heights,42.0403,-87.9761,GigeNET,105,1241
+NA,US,Malvern,40.0512,-75.5042,Sin dato,105,2564
+NA,US,Chapel Hill,35.9111,-79.0621,University of North Carolina at Chapel Hill,104,308
+EU,DE,Munich (Moosach),48.1757,11.5375,Telefonica Germany GmbH & Co.OHG,104,877
+AS,KR,Yongsan-dong (Hangang-daero),37.5379,126.97,tosscx,104,5607
+AS,SG,Singapore,1.35208,103.82,IBM Cloud,103,884
+EU,FR,Paris,48.8575,2.35138,IONOS SE,103,1144
+EU,RU,Moscow,55.7558,37.6173,"\"JSC \"\"Severen-Telecom\"\"\"",103,7334
+NA,US,Billerica,42.5584,-71.2689,Akamai International B.V.,103,1888
+AS,CN,Kunming,24.8797,102.833,CHINANET Yunnan province IDC1 network,102,2415
+NA,US,Suwanee,34.0386,-84.057,"Quality Technology Services, LLC",101,1076
+EU,IT,Rome,41.8967,12.4822,"Amazon.com, Inc.",100,2763
+NA,US,San Jose,37.3387,-121.885,"Square, Inc.",100,1256
+NA,CA,Toronto (North York),43.703,-79.4578,Index Exchange Inc.,100,935
+EU,CH,Zurich,47.3769,8.54169,Private Layer INC,99,1564
+AS,CN,Liuzhou,24.3255,109.415,China Telecom,98,1401
+EU,GB,London,51.5072,-0.127586,Rackspace Ltd.,98,763
+NA,CA,Saint John,45.2733,-66.0633,Bell Canada,98,289
+AS,CN,Guangzhou,23.1317,113.266,Fuzhou,98,5449
+AS,TW,Taipei,25.0501,121.565,"Chunghwa Telecom Co., Ltd.",98,7617
+EU,PL,Warsaw (Mokotów),52.1824,20.9985,OVH SAS,98,994
+EU,RU,Moscow,55.7558,37.6173,Variti+ LLC,98,4791
+EU,DE,Berlin,52.52,13.405,Cronon GmbH,97,805
+AS,CN,Beijing,39.9042,116.407,"Beijing Baidu Netcom Science and Technology Co., Ltd.",95,1967
+NA,CA,Toronto (Old Toronto),43.6455,-79.3839,Amanah Tech Inc.,95,1144
+NA,US,Washington D.C.,38.9072,-77.0369,TripAdvisor LLC,95,767
+AS,CN,Changsha,28.2278,112.939,CHINA UNICOM China169 Backbone,94,7010
+NA,CA,Toronto,43.6532,-79.3832,"Fastly, Inc.",94,1872
+NA,US,Poway,32.9392,-117.039,Castle Access Inc,94,1262
+NA,US,Karlstad,48.5778,-96.5194,"Wikstrom Telephone Company, Incorporated",94,300
+NA,US,Mountain View,37.4012,-122.048,"Level 3 Communications, Inc.",94,8280
+NA,US,Gilroy,37.0095,-121.564,Hurricane Electric LLC,93,276
+AS,SG,Singapore,1.35208,103.82,Sin dato,92,2397
+AS,CN,Chengde,40.9515,117.963,CHINA UNICOM China169 Backbone,92,2923
+EU,FI,Helsinki,60.1699,24.9384,Knowit Solutions Oy,92,4569
+NA,US,San Jose,37.3387,-121.885,"Beijing Baidu Netcom Science and Technology Co., Ltd.",92,1227
+EU,DE,Frankfurt am Main,50.1109,8.68213,"Level 3 Communications, Inc.",92,8459
+EU,RU,Moscow,55.7916,37.6267,Limited Liability Company GPM Digital Technologies,91,29641
+NA,US,Reston,38.9586,-77.357,DataWeb Global Group B.V.,91,1938
+OC,AU,Sydney,-33.8688,151.209,"LivePerson, Inc.",91,4276
+EU,RU,Moscow,55.7024,37.6944,"\"LLC \"\"MASTERHOST\"\"\"",91,797
+EU,BE,Sint-Niklaas,51.1735,4.16844,EDPNET Belgium BV,91,958
+NA,US,Las Vegas,36.1716,-115.139,"CDK Global, LLC",90,1023
+NA,CA,Toronto (Old Toronto),43.6623,-79.4461,Sin dato,90,487
+AS,JP,Chiyoda City,35.6906,139.77,ARTERIA Networks Corporation,90,805
+NA,US,Cambridge (Area 2/MIT),42.3643,-71.0891,"CenturyLink Communications, LLC",90,4385
+EU,RU,Moscow,55.7666,37.5277,HLL LLC,89,1867
+EU,GB,London,51.5072,-0.127586,Claranet Limited,89,2595
+NA,US,San Jose,37.3387,-121.885,FriendFinder Networks Inc,89,1269
+NA,US,San Mateo (Downtown),37.5619,-122.325,"Alibaba (US) Technology Co., Ltd.",89,903
+EU,IT,Milan,45.4905,9.12509,UniCredit S.p.A.,89,4669
+NA,CA,Toronto (Old Toronto),43.6447,-79.3841,Performive LLC,89,1454
+AS,SG,Singapore,1.35208,103.82,PhoenixNAP,88,741
+NA,US,New York,40.7525,-73.979,"Kamatera, Inc.",88,1031
+NA,US,Minneapolis,44.9778,-93.265,"CenturyLink Communications, LLC",87,327
+AS,CN,Haidian (Haidian Qu),40.0471,116.306,Sin dato,86,7553
+NA,US,San Francisco (Financial District),37.79,-122.401,Sin dato,86,817
+EU,FR,Strasbourg,48.5734,7.75211,Host Europe GmbH,86,2072
+NA,US,San Jose (Willow Glen),37.2951,-121.93,"eBay, Inc",85,1831
+NA,US,St Louis,38.627,-90.1994,"Level 3 Communications, Inc.",85,228
+NA,US,Ashburn,39.0113,-77.4713,Sin dato,84,222
+EU,PL,Warsaw (Mokotów),52.1757,20.9885,GEMIUS SA,84,5734
+NA,US,Kansas City (Paseo West),39.0972,-94.5673,"Joe's Datacenter, LLC",84,222
+NA,CA,Montreal,45.5019,-73.5674,IBM Cloud,84,4940
+EU,FR,La Chapelle-aux-Bois,47.9931,6.29977,DSTORAGE s.a.s.,83,1823
+NA,US,Provo,39.321,-111.094,"XMission, L.C.",83,208
+NA,US,San Luis Obispo,35.2828,-120.66,"InterStar Network Services, Inc.",83,220
+EU,NL,Ter Apel,52.8767,7.05972,Netvisit B.V.,83,241
+NA,US,New York,40.7252,-74.0047,Webair Internet Development Company Inc.,83,1053
+EU,NL,Amsterdam (Westpoort),52.3925,4.84652,Viking Host B.V.,83,832
+AS,HK,Hong Kong,22.3193,114.169,VDC Powerbase Hong Kong Data Centers Limited,83,933
+EU,FR,Marseille,43.3026,5.36907,Akamai International B.V.,83,1067
+AS,CN,Guangzhou,23.1291,113.264,China Unicom IP network China169 Guangdong province,83,4659
+EU,CH,Lausanne,46.5195,6.62704,Swisscom (Schweiz) AG,83,244
+NA,MX,Mexico City,19.4326,-99.1332,"Cloudflare, Inc.",82,3885
+EU,DE,"Cologne (Innenstadt, Cologne)",50.9408,6.9406,PlusServer GmbH,82,1947
+EU,BE,Brussels,50.8476,4.35717,"Akamai Technologies, Inc.",82,18990
+EU,NL,Amsterdam,52.3676,4.90414,IBM Cloud,82,1293
+NA,US,Miami,25.7617,-80.1918,"Akamai Technologies, Inc.",82,2110
+EU,RO,Bucharest,44.4268,26.1025,M247 Europe SRL,81,1441
+AS,KR,Seoul (Chungjeong-ro),37.5628,126.965,flexnetworks,80,3467
+AS,CN,Beijing,39.9042,116.407,XINHUA NEWS AGENCY,79,590
+NA,US,Los Angeles,34.0549,-118.243,"NTT America, Inc.",78,652
+AS,JP,Chiyoda,35.6916,139.768,FUJITSU LIMITED,78,5409
+OC,AU,Huntingwood,-33.7973,150.877,Oracle Corporation,77,1572
+NA,US,Secaucus,40.7824,-74.0711,"DigitalOcean, LLC",76,674
+NA,US,Cambridge (East Cambridge),42.3654,-71.0879,Akamai International B.V.,76,739429
+EU,UA,Kyiv,50.4504,30.5245,"\"LLC \"\"ID STRATEGY\"\"\"",76,929
+AS,JP,Chūōchō,35.6819,139.774,Equinix (EMEA) Acquisition Enterprises B.V.,76,606
+EU,NL,Haarlem (Haarlemmerbuurt-Oost),52.3907,4.66555,LeaseWeb Netherlands B.V.,76,956
+AS,CN,Chaowai (Chaoyang),39.9715,116.49,China Mobile Communications Corporation,75,1065
+NA,US,Tampa,28.0134,-82.5078,"HIVELOCITY, Inc.",74,1781
+EU,DE,Frankfurt am Main,50.1109,8.68213,"DigitalOcean, LLC",74,979
+EU,DK,Taastrup,55.646,12.2979,Adform A/S,74,529
+AS,TW,Neihu District,25.0735,121.578,"AboveNet Communications Taiwan Co., Ltd",74,566
+EU,NL,Amsterdam (Amsterdam-Zuidoost),52.3039,4.93948,3W Infra B.V.,73,3282
+NA,US,Chicago (Goose Island),41.8971,-87.6434,Sin dato,73,1036
+EU,CH,Zurich,47.3769,8.54169,"Facebook, Inc.",73,1136
+NA,CA,Mississauga,43.6318,-79.6461,GTT Communications Inc.,73,5838
+NA,US,Ashburn,39.016,-77.4816,SECURED SERVERS LLC,72,811
+SA,BR,São José do Rio Preto,-21.2922,-50.3428,CLARO S.A.,72,5452
+EU,DE,Hamburg,53.5488,9.98717,Google LLC,72,1817
+NA,MX,Mexico City,19.2465,-99.1013,Universidad Nacional Autonoma de Mexico,72,9439
+NA,US,El Segundo,33.9192,-118.416,Akamai International B.V.,72,1138
+NA,US,Reston,38.9567,-77.3623,VeriSign Infrastructure & Operations,72,707
+EU,DE,Espelkamp,52.3849,8.6237,"\"Robert Meyer trading as \"\"Mittwald CM Service GmbH & Co. KG\"\"\"",72,784
+AS,AE,Fujairah,25.1221,56.3345,Google LLC,71,1090
+EU,DE,Düsseldorf,51.2277,6.77346,WIIT AG,71,379
+EU,DE,Frankfurt am Main,50.1109,8.68213,23M GmbH,70,944
+SA,BR,São Paulo (Várzea da Barra Funda),-23.5218,-46.6631,Sin dato,70,943
+NA,US,Polk City,28.1825,-81.824,"Amazon.com, Inc.",70,593
+EU,CZ,Prague,50.0755,14.4378,T-Mobile Czech Republic a.s.,70,486
+AS,TR,Mahmutbey,41.0605,28.8463,ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.,70,978
+NA,US,Roselle,41.9661,-88.1034,"YOUR.ORG, INC.",69,146
+NA,US,Portsmouth Heights,36.821,-76.3688,"Amazon.com, Inc.",69,896
+EU,RU,Moscow,55.7024,37.8854,"\"OOO \"\"Sovremennye setevye tekhnologii\"\"\"",69,4881
+EU,GB,London,51.5124,-0.0884575,"NTT America, Inc.",69,935
+NA,US,Seattle,47.6061,-122.333,"Facebook, Inc.",69,1615
+EU,CH,Zurich,47.3785,8.49519,Nine Internet Solutions AG,68,1966
+NA,US,Burbank,34.1558,-118.325,"Disney Worldwide Services, Inc.",68,1199
+NA,US,San Antonio,29.4252,-98.4946,Microsoft Corporation,68,916
+AS,KR,Gwangmyeong (Digital-ro 31-gil),37.4864,126.892,flexnetworks,68,666
+EU,RU,Moscow,55.7876,37.5787,"\"Federal State Unitary Enterprise \"\"The Russian Television and Radio Broadcasting\"",68,2613
+EU,NL,Amsterdam (Amsterdam Nieuw-West),52.3406,4.83034,IBM Cloud,68,4875
+EU,GB,London,51.5072,-0.127586,Google LLC,68,1096
+NA,US,Monroe,32.5896,-92.0669,"Level 3 Communications, Inc.",67,785
+NA,US,Dallas,32.7767,-96.797,"Cloudflare, Inc.",67,2205
+NA,US,Fremont (East Industrial),37.49,-121.931,Hurricane Electric LLC,67,186
+NA,US,Boston,42.3601,-71.0589,Akamai International B.V.,67,1611
+EU,RU,Moscow,55.7024,37.6944,LLC VK,67,563
+EU,GB,London,51.5072,-0.127586,"Cloudflare, Inc.",67,4061
+EU,FR,Paris,48.871,2.35487,Claranet Limited,67,480
+AS,JP,Chiyoda City,35.6916,139.768,NTT Communications Corporation,67,547
+AS,JP,Chiyoda City,35.6916,139.768,"GMO Internet Group, Inc.",66,591
+AS,CN,Guangzhou (Yuexiu Qu),23.1291,113.254,Sin dato,66,308
+AS,SA,Mecca,21.4266,39.8256,Saudi Telecom Company JSC,66,172
+AS,IN,New Delhi (Okhla Phase III),28.5508,77.268,Bharti Airtel Limited,66,11277
+NA,US,Weehawken Township,40.7715,-74.0193,Sin dato,66,946
+EU,GB,London,51.5072,-0.127586,Akamai International B.V.,65,4005
+NA,US,Cambridge (East Cambridge),42.3639,-71.0798,"TowardEX Technologies International, Inc.",65,648
+AS,CN,Shanghai,31.2304,121.474,"Hangzhou Alibaba Advertising Co.,Ltd.",65,453
+AS,CN,Huamu (Pudong Xinqu),31.1997,121.583,Sin dato,65,6448
+AS,VN,Hanoi,21.0278,105.834,Vietnam Posts and Telecommunications (VNPT),65,424
+NA,US,Chicago,41.8781,-87.6298,"NTT America, Inc.",65,158
+NA,US,Cleveland,41.4993,-81.6944,Cogent Communications,65,2467
+EU,PL,Warsaw,52.2297,21.0122,OVH SAS,65,5129
+AS,TR,Umraniye,41.0056,29.132,Sin dato,64,973
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7465,37.5401,LLC Internet Solutions,64,757
+NA,US,Lehi,40.4342,-111.89,Adobe Inc.,64,619
+NA,US,Waltham (Banks Square),42.376,-71.2398,"Reflected Networks, Inc.",63,304
+AS,HK,Hong Kong,22.3193,114.169,Microsoft Corporation,63,505
+NA,CA,Toronto,43.6532,-79.3832,Sin dato,63,801
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7452,37.5868,HLL LLC,63,7516
+NA,US,Elizabeth,40.664,-74.2107,GTT Communications Inc.,63,4080
+AS,IN,Mumbai (Gangawadi),19.0903,72.9092,NTTCINS,63,1553
+EU,RU,Moscow,55.8271,37.4482,MnogoByte LLC,63,538
+EU,RU,Moscow,55.7569,37.7005,"\"PJSC \"\"Vimpelcom\"\"\"",63,3757
+NA,US,Bellevue,47.5787,-122.154,Sin dato,63,517
+AS,CN,Chengdu,30.6509,104.076,CHINANET SiChuan Telecom Internet Data Center,62,2835
+EU,NL,Amsterdam,52.3676,4.90414,Webzilla B.V.,62,1363
+OC,AU,Sydney,-33.8649,151.209,"AppNexus, Inc",62,1202
+AS,KR,Yongsan-dong,37.5503,126.997,Meteverse Limited.,62,5637
+NA,US,Dallas,32.7767,-96.797,Rackspace Hosting,61,647
+NA,US,San Francisco (Yerba Buena),37.7859,-122.405,Unitas Global,61,411
+AS,KR,Seongnam-si,37.3918,127.113,"Akamai Technologies, Inc.",61,223
+NA,US,Denver,39.7392,-104.99,Iron Mountain Data Center,60,211
+EU,IT,Milan,45.4642,9.18998,Akamai International B.V.,60,683
+NA,US,Scottsdale (South Scottsdale),33.4997,-111.928,Sin dato,60,494
+NA,US,Santa Monica,34.0261,-118.475,Sin dato,60,1040
+AS,JP,Minato-ku,35.6654,139.738,"SBI BITS Co., Ltd.",60,1602
+NA,US,San Francisco (Financial District),37.7892,-122.402,Wikimedia Foundation Inc.,60,1776
+AS,VN,Hanoi,21.0278,105.834,Vietel - CHT Compamy Ltd,60,360
+NA,US,Eugene,44.0463,-123.078,University of Oregon,60,1431
+EU,DE,Sassenburg,52.5167,10.6333,"DigitalOcean, LLC",59,601
+EU,NL,Amsterdam (Amsterdam-Zuidoost),52.3031,4.93795,DataWeb Global Group B.V.,59,644
+AS,JP,Shibuya City,35.6764,139.65,Google LLC,59,867
+SA,CO,Cali,3.45165,-76.532,"Cloudflare, Inc.",59,1729
+AS,CN,Jinrongjie (Xicheng District),39.9236,116.36,China Unicom Beijing Province Network,59,667
+EU,CZ,Prague,50.0742,14.4359,Globecorp Networks,58,332
+EU,AT,Vienna (Floridsdorf),48.2639,16.4017,Hutchison Drei Austria GmbH,58,317
+SA,AR,Buenos Aires,-34.6037,-58.3816,"Amazon.com, Inc.",58,1361
+EU,FR,Saint-Denis,48.9362,2.35744,EULERIAN TECHNOLOGIES S.A.S.,58,880
+EU,FR,Strasbourg,48.5734,7.75211,OVH SAS,57,663
+NA,US,Dallas,32.7767,-96.797,"Limestone Networks, Inc.",57,406
+NA,US,Los Angeles,34.0549,-118.243,Aptum Technologies,57,514
+NA,US,Lansing,42.6898,-84.6427,"Liquid Web, L.L.C",57,466
+EU,PL,Warsaw,52.2297,21.0122,"Akamai Technologies, Inc.",56,677
+EU,BG,Sofia,42.6977,23.3219,GEOCOM LLC,56,160
+AS,IN,Mumbai (Ghodapdeo),18.9861,72.8371,TTSL-ISP DIVISION,56,899
+NA,US,Los Angeles (Downtown Los Angeles),34.0479,-118.256,"SWITCH, LTD",56,1227
+AS,CN,Shaoyang,27.2389,111.468,Hengyang,56,1684
+EU,UA,Dnipro,48.4647,35.0462,"Amazon.com, Inc.",56,5324
+AS,TH,Bangkok,13.7563,100.502,"NTT America, Inc.",56,853
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.734,37.6636,JSC RTComm.RU,55,2633
+AS,KR,Gwangmyeong (Digital-ro 33-gil),37.4866,126.895,abcle,55,2034
+EU,UA,Dnipro,48.4647,35.0462,"\"JSC Commercial Bank \"\"PrivatBank\"\"\"",55,2146
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7376,37.5899,Federal State Unitary Enterprise Rossiya Segodnya International Information Age,55,938
+EU,RU,St Petersburg,59.9472,30.381,LLC VK,55,1676
+AS,JP,Chiyoda City,35.6916,139.768,"KVH Co.,Ltd",54,322
+EU,DE,Frankfurt am Main,50.1109,8.68213,Fornex Hosting S.L.,54,1493
+EU,FR,Paris,48.8566,2.35222,"Akamai Technologies, Inc.",54,921
+NA,CA,Montreal,45.5019,-73.5674,Index Exchange Inc.,54,553
+NA,US,Ashburn,39.0438,-77.4874,"CB Neptune Holdings, LLC",54,685
+NA,US,Ashburn,39.0155,-77.4817,Windstream Communications LLC,54,2507
+OC,AU,Sydney,-33.8688,151.209,"Amazon.com, Inc.",54,995
+EU,NL,Amsterdam (Amsterdam-Oost),52.3489,4.91691,Sin dato,54,2138
+EU,IT,Milan,45.4685,9.1824,Google LLC,54,852
+AS,IN,Mumbai,18.9582,72.832,"Amazon.com, Inc.",53,349
+NA,US,Berkeley (Downtown Berkeley),37.8641,-122.268,University of California at Berkeley,53,2811
+EU,SE,Stockholm,59.3293,18.0686,Google LLC,53,739
+EU,IT,Figino,45.471,9.08697,SEEWEB s.r.l.,53,1521
+NA,US,New York,40.7128,-74.006,Internap Holding LLC,53,290
+AS,SG,Singapore (Pioneer),1.32123,103.695,"DigitalOcean, LLC",53,616
+EU,CZ,Prague,50.0794,14.4295,OVH SAS,53,903
+EU,DE,Berlin (Friedrichshain-Kreuzberg),52.5077,13.3973,Axel Springer SE,52,558
+NA,US,New York,40.7407,-73.9964,"AT&T Enterprises, LLC",52,488
+EU,FR,Levallois-Perret,48.8934,2.27768,Sin dato,52,1316
+EU,DE,Frankfurt am Main (Innenstadt I),50.097,8.63004,Leaseweb Deutschland GmbH,52,288
+EU,IT,Milan,45.4685,9.1824,RETELIT-X S.R.L.,52,393
+EU,DE,Frankfurt am Main,50.1109,8.68213,CDNvideo LLC,52,4502
+AS,TR,Fatih,41.0376,28.9323,Sin dato,52,720
+EU,DE,Bad Oeynhausen,52.2245,8.826,rh-tec Business GmbH,51,439
+AS,VN,Hanoi,21.0278,105.834,VNPT Corp,51,318
+EU,DE,Gütersloh,51.8962,8.3668,dogado GmbH,51,544
+AS,ID,Jakarta,-6.20925,106.82,BIZNET,51,1948
+NA,US,Seattle (Downtown Seattle),47.6051,-122.331,"F5, Inc.",51,1902
+EU,RU,Moscow,55.7558,37.6173,HLL LLC,51,798
+NA,US,Franklin Township,40.5325,-74.5386,Verizon Business,50,315
+NA,US,Tempe,33.4255,-111.94,"Akamai Technologies, Inc.",50,618
+EU,GB,Bath,51.3758,-2.3599,Future Publishing Ltd,50,677
+AS,CN,Guangzhou,23.1317,113.266,China Mobile Communications Corporation,50,719
+NA,US,Los Angeles,34.0522,-118.244,"Leaseweb USA, Inc.",49,453
+AS,CN,Beijing,39.9042,116.407,CHINA UNICOM China169 Backbone,49,3188
+NA,US,Englewood,39.6478,-104.988,Akamai International B.V.,49,2368
+EU,RU,Moscow,55.7753,37.5271,Sin dato,49,12106
+NA,CA,Montreal,45.5019,-73.5674,Akamai International B.V.,49,3155
+EU,DE,Frankfurt am Main (Bornheim/Ostend),50.1165,8.72587,Sin dato,49,1032
+NA,US,Cambridge (Area 2/MIT),42.3643,-71.0891,"Akamai Technologies, Inc.",49,1292
+EU,DE,Nuremberg (Südöstliche Außenstadt),49.3896,11.1768,NorthC Deutschland GmbH,49,1027
+NA,US,Cambridge (East Cambridge),42.3649,-71.0888,"Akamai Technologies, Inc.",49,893
+NA,US,Campbell (Pruneyard / Dry Creek),37.2851,-121.932,Sin dato,48,381
+EU,NO,Fornebu,59.894,10.6284,GLOBALCONNECT AS,48,335
+NA,US,Linden,35.6172,-87.8351,"CenturyLink Communications, LLC",48,943
+AS,TR,Büyükçekmece,40.9941,28.7067,Vmind Bilgi Teknolojileri Anonim Sirketi,48,1007
+AS,CN,Beijing,39.9042,116.407,"Hangzhou Alibaba Advertising Co.,Ltd.",48,231
+AS,TW,New Taipei City,25.062,121.457,"Chunghwa Telecom Co., Ltd.",48,4172
+EU,CZ,Prague,50.0755,14.4378,HostRoyale Technologies Pvt Ltd,48,3460
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.771,37.6488,Data Storage Center JSC,48,701
+EU,GB,London,51.5074,-0.127758,NTT Global Data Centers EMEA UK Ltd.,48,304
+NA,US,Eastvale,33.9636,-117.564,"Amazon.com, Inc.",48,504
+AS,CN,Youyilu,39.0851,117.199,"Tianjij,300000",48,766
+NA,US,Bellevue (Factoria),47.5787,-122.172,Sin dato,48,639
+EU,DE,Nuremberg (Südöstliche Außenstadt),49.3899,11.1771,NorthC Deutschland GmbH,47,998
+NA,US,Palo Alto (Community Center),37.448,-122.144,Internap Holding LLC,47,640
+NA,US,Broomfield (Interlocken),39.9215,-105.144,"Level 3 Communications, Inc.",47,1166
+NA,US,New York,40.7128,-74.006,"Amazon.com, Inc.",47,3814
+EU,NL,Amsterdam (Amsterdam-Zuidoost),52.3031,4.93795,Viking Host B.V.,47,1280
+EU,NL,Haarlem (Haarlem-Oost),52.3925,4.66375,PurePeak Ltd.,46,465
+NA,US,Los Angeles,34.0653,-118.244,"The Constant Company, LLC",46,1916
+EU,SE,Gothenburg,57.7089,11.9746,Bahnhof AB,46,384
+AS,KR,Seongnam-si,37.3668,127.108,GSNeotek,45,4089
+EU,CH,Geneva,46.2044,6.14316,Akamai International B.V.,45,1416
+AS,CN,Hangzhou,30.0464,119.954,"NINGBO, ZHEJIANG Province, P.R.China.",45,327
+AS,SG,Singapore,1.35208,103.82,"Cloudflare, Inc.",45,1868
+EU,DE,Frankfurt am Main,50.1109,8.68213,IBM Cloud,45,570
+NA,US,Reston,38.9586,-77.357,"PaeDae, Inc.",45,562
+AS,TW,Taipei,25.033,121.565,Akamai International B.V.,45,729
+EU,UA,Kyiv,50.4501,30.5234,Volia-Cable LLC,45,383
+EU,BE,Ghent,51.05,3.73039,"Cloudflare, Inc.",44,4262
+NA,US,Los Angeles,34.0549,-118.243,"EmailOversight, Inc.",44,696
+EU,RU,Moscow,55.7558,37.6173,Data Storage Center JSC,44,683
+NA,US,Queen Creek,33.2656,-111.683,Webair Internet Development Company Inc.,44,205
+NA,US,Russellville,35.263,-93.0711,Acxiom LLC,44,780
+NA,US,New York,40.7105,-74.0105,Unitas Global,44,183
+EU,RU,Makhachkala,42.9851,47.5023,HLL LLC,44,947
+EU,DE,Hamburg (Hamburg-Mitte),53.5397,9.99412,Sin dato,43,915
+AS,MY,Cyberjaya,2.92132,101.656,Gigabit Hosting Sdn Bhd,43,1030
+AS,CN,Chaowai (Jianguomen Residential District),39.9141,116.428,Sin dato,43,395
+NA,US,Palo Alto,37.4419,-122.143,Meteverse Limited.,43,1681
+NA,US,San Diego,32.7157,-117.161,Trellian Pty. Limited,43,182
+NA,US,Sunnyvale,37.3929,-122.042,Sin dato,43,475
+EU,RO,Bucharest (Sector 1),44.4846,26.0899,iNES GROUP SRL,43,418
+NA,US,Cambridge (East Cambridge),42.3649,-71.0888,"CenturyLink Communications, LLC",43,583
+EU,GB,London,51.5072,-0.127586,"LivePerson, Inc.",43,1969
+AS,CN,Nanjing,32.0607,118.763,Chinanet,42,372
+EU,CH,Lucerne,47.0505,8.30635,Private Layer INC,42,2059
+AS,JP,Shibuya City,35.6764,139.65,Meteverse Limited.,42,1220
+NA,US,Chicago,41.8781,-87.6298,Akamai International B.V.,42,1804
+AS,KR,Naju (Jinheung-gil),35.0185,126.795,Sin dato,42,456
+EU,RU,Moscow,55.8032,37.5558,"\"OOO \"\"Sovremennye setevye tekhnologii\"\"\"",42,2304
+AS,JP,Minato,35.6605,139.729,"Beijing Baidu Netcom Science and Technology Co., Ltd.",42,492
+NA,US,San Francisco (South Beach),37.7845,-122.397,Unitas Global,42,448
+NA,US,Los Angeles,34.0549,-118.243,"NetActuate, Inc",42,417
+SA,CO,Bogotá,4.71099,-74.0721,"Amazon.com, Inc.",42,1025
+AS,JP,Chiyoda City,35.6916,139.768,SoftBank Corp.,42,463
+AS,JP,Chiyoda City,35.6916,139.768,FUJITSU LIMITED,42,212
+NA,US,Manassas,38.7509,-77.4753,"Leaseweb USA, Inc.",42,399
+EU,NO,Oslo (Sentrum),59.9143,10.7432,Schibsted Media AS,42,455
+NA,US,San Jose,37.3387,-121.885,"CB Neptune Holdings, LLC",42,490
+EU,DE,Munich,48.1351,11.582,"Amazon.com, Inc.",42,772
+SA,BR,Resende,-22.471,-44.4654,SECURED SERVERS LLC,42,477
+EU,NL,Dordrecht (19e Eeuwse Schil),51.8109,4.66564,Springer Nature B.V.,42,1194
+EU,IT,Quartu Sant'Elena,39.2433,9.20656,Poste Italiane S.p.A.,42,14232
+AS,KR,Seongnam-si,37.3668,127.108,Kakao Corp,42,157
+AS,ID,Utan,-6.17026,106.903,PT Integra Ventura,41,409
+AS,ID,Manado,1.47483,124.842,Sin dato,41,558
+NA,US,Chicago (West Loop),41.879,-87.6415,Sin dato,41,687
+AS,KR,Seoul (Toegye-ro),37.5614,126.996,Meteverse Limited.,41,9516
+AS,TR,Beyoğlu,41.0694,29.0044,Dogus Planet Elektronik Ticaret ve Bilisim Hizm A.S,41,819
+NA,US,Herndon (Hunter Mill District),38.9558,-77.4135,ROKABEAR LLC,41,230
+EU,NL,Amsterdam,52.3676,4.90414,HZ Hosting Ltd,41,657
+NA,US,Southfield,42.4734,-83.2219,"Akamai Technologies, Inc.",41,774
+NA,US,Ashburn,39.0155,-77.4818,"Fast Serv Networks, LLC",41,915
+AS,TR,Izmir,38.43,27.1361,Dorabase Veri Merkezi Hizmetleri A.S.,40,554
+NA,US,Durham,35.9374,-78.8425,Flexential Colorado Corp.,40,2329
+EU,NL,Haarlem,52.3874,4.64622,"Akamai Technologies, Inc.",40,1437
+AS,TR,Bursa,40.268,29.0882,DGN TEKNOLOJI A.S.,40,3385
+AS,JP,Chiyoda City,35.6869,139.767,"NTT America, Inc.",40,267
+NA,US,Saint George,56.6016,-169.548,Charter Communications Inc,40,2320
+EU,BY,Hrodna,53.6688,23.8223,"Cloudflare, Inc.",40,4364
+AS,TR,Istanbul,41.0053,28.977,ANDROMEDA TV DIGITAL PLATFORM ISLETMECILIGI A.S.,40,1338
+EU,PL,Chorzów,50.2975,18.9546,P4 Sp. z o.o.,40,233
+EU,UA,Kyiv,50.4236,30.5128,Virtual Systems LLC,40,466
+AS,TR,Istanbul,41.0082,28.9784,PremierDC Veri Merkezi Anonim Sirketi,39,906
+NA,US,Minneapolis,44.9778,-93.265,"Fastly, Inc.",39,2767
+NA,US,San Francisco (Financial District),37.7906,-122.393,"Charles Schwab & Co., Inc.",39,227
+EU,RU,Moscow,55.7558,37.6173,FIRST SERVER LIMITED,39,319
+AS,JP,Minato,35.6652,139.75,NHN Techorus Corp.,39,255
+AS,CN,Beijing,39.9042,116.407,"Beijing CNISP Technology Co., Ltd.",39,129
+NA,US,Los Angeles (Central-Alameda),34.0581,-118.237,Zayo Bandwidth,38,332
+AS,HK,Chai Wan,22.2678,114.236,"Beijing Baidu Netcom Science and Technology Co., Ltd.",38,594
+NA,US,Palo Alto,37.4419,-122.143,"PaeDae, Inc.",38,350
+EU,DE,Frankfurt am Main,50.1109,8.68213,velia.net Internetdienste GmbH,38,275
+NA,US,Boulder,39.9932,-105.259,National Oceanic and Atmospheric Administration,38,171
+EU,PL,Warsaw,52.2297,21.0122,Oktawave S.A.,38,909
+NA,US,New York,40.7128,-74.006,Xglobe Online LTD,38,172
+NA,US,San Jose,37.3387,-121.885,"NetActuate, Inc",38,351
+AS,JP,Chiyoda City,35.6906,139.77,BIGLOBE Inc.,37,10630
+EU,DE,Frankfurt am Main,50.1109,8.68213,noris network AG,37,1672
+EU,DE,Gunzenhausen (Frickenfelden),49.1248,10.7806,Hetzner Online GmbH,37,1345
+NA,US,Austin (East Riverside - Oltorf),30.2427,-97.7217,Verizon Business,37,481
+AS,SG,Singapore (Pioneer),1.32123,103.695,G-Core Labs S.A.,37,2306
+NA,US,Washington D.C. (Southwest Washington),38.8865,-77.0188,Sin dato,37,659
+EU,UA,Kyiv,50.4501,30.5234,UkrNet Ltd.,37,337
+NA,US,New York,40.7128,-74.006,NatCoWeb Corp.,36,512
+AS,TR,Kâğıthane,41.093,29.003,Dogus Bilgi Islem ve Teknoloji Hizmetleri A.S,36,318
+NA,US,San Francisco (South Beach),37.7865,-122.397,CBS Interactive Inc.,36,379
+EU,RU,Moscow,55.805,37.5731,Tinkoff Bank JSC,36,559
+EU,DE,Frankfurt am Main,50.1109,8.68213,firstcolo GmbH,36,381
+EU,FR,Vitry-le-François,48.727,4.58582,OVH SAS,36,602
+AS,KR,Seongnam-si (Buljeong-ro),37.3654,127.122,NAVER Cloud Corp.,36,238
+AS,JP,Chiba,35.6074,140.107,Shenzhen Tencent Computer Systems Company Limited,36,1025
+NA,US,Boston,42.3601,-71.0589,Cogent Communications,36,624
+EU,DE,Nuremberg (Mitte),49.4493,11.087,ODN OnlineDienst Nordbayern GmbH & Co. KG,36,501
+NA,US,San Jose,37.3843,-121.927,Internap Holding LLC,36,427
+NA,US,Washington D.C.,38.9072,-77.0369,Oath Holdings Inc.,36,333
+AS,JP,Chiyoda City,35.6906,139.77,"NTT America, Inc.",36,359
+AS,CN,Shenzhen,22.5429,114.06,"IDC, China Telecommunications Corporation",36,284
+AS,KZ,Almaty (Almaly Audany),43.2631,76.9311,PS Internet Company LLP,36,724
+EU,DE,Düsseldorf,51.223,6.78245,WIIT AG,36,186
+NA,US,Santa Monica,34.0297,-118.47,Sin dato,36,633
+EU,AT,Vienna (Mariahilf),48.1984,16.3603,APA-IT Informations Technologie G.m.b.H,36,934
+NA,US,San Diego (Kearny Mesa),32.8382,-117.133,ScaleMatrix,35,314
+EU,FR,Paris,48.8575,2.35138,SOLOCAL,35,937
+EU,CZ,Velká Chuchle (Praha 5),50.0522,14.3514,LiveSport s.r.o.,35,170
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7589,37.6094,"\"PJSC \"\"Vimpelcom\"\"\"",35,15561
+NA,US,Enon,37.3307,-77.3228,"Amazon.com, Inc.",35,391
+AS,IN,Hyderabad,17.4065,78.4772,"Amazon.com, Inc.",35,349
+EU,RU,Samara,53.1353,50.1024,PJSC MegaFon,34,1439
+NA,US,Los Angeles,34.0549,-118.243,Meteverse Limited.,34,11769
+AS,ID,Jakarta,-6.20615,106.798,PT Cyberindo Aditama,34,544
+NA,US,Orlando (Northeast Orlando),28.5564,-81.3458,"Atlantic.net, Inc.",34,176
+EU,IE,Dublin,53.3341,-6.25148,OVH SAS,33,488
+EU,DE,Saarbrücken (Mitte),49.2405,6.98474,OVH SAS,33,420
+NA,US,Chicago,41.8781,-87.6298,"Amazon.com, Inc.",33,352
+AS,JP,Chiyoda,35.6906,139.77,ARTERIA Networks Corporation,33,423
+NA,US,Ashburn,39.0438,-77.4874,"Workday, Inc.",32,460
+AS,CN,Xuzhou,34.2044,117.286,CHINA UNICOM China169 Backbone,32,409
+AS,CN,Wenquan,26.0998,119.297,Quanzhou,32,381
+EU,NL,Amsterdam,52.3676,4.90414,"Amazon.com, Inc.",32,1603
+NA,US,Bentonville (Downtown Bentonville),36.3653,-94.2176,"Wal-Mart Stores, Inc.",32,311
+NA,US,St Louis,38.627,-90.1994,velia.net,32,306
+EU,ES,Madrid (Centro),40.4273,-3.71344,OVH SAS,31,505
+EU,NL,Amsterdam,52.3563,4.95714,Sin dato,31,441
+AS,IN,Gurugram (Phase III),28.5047,77.0886,Times Internet Ltd,31,337
+NA,US,Reynoldsburg,39.9838,-82.7785,Sin dato,31,543
+EU,GB,Portsmouth,50.8198,-1.08798,Aptum Technologies,31,204
+EU,GB,South Shields,54.988,-1.44018,PERFORMANCE HORIZON GROUP LIMITED,31,256
+EU,DE,Frankfurt am Main,50.1109,8.68213,Vodafone GmbH,31,835
+EU,NL,Amsterdam,52.3676,4.90414,Akamai International B.V.,31,421
+EU,RU,Severo-Yeniseyskiy,60.3751,93.0377,JSC RTComm.RU,30,322
+NA,US,Freehold Township (West Freehold),40.2219,-74.2891,Sin dato,30,270
+NA,US,San Mateo (Downtown),37.5617,-122.325,Freewheel Media Inc.,30,354
+AS,CN,Langfang,39.538,116.684,Beijing Guanghuan Xinwang Digital,30,172
+AS,JP,Minato,35.6693,139.715,USEN CORPORATION,30,249
+EU,RU,St Petersburg,59.9311,30.3609,PJSC Rostelecom,30,1624
+AS,JP,Minato,35.663,139.761,SoftBank Corp.,30,2621
+AS,CN,Beijing,39.9042,116.407,China Telecom (Group),30,248
+NA,US,San Francisco,37.7749,-122.419,"Cloudflare, Inc.",30,187
+EU,DE,Sulzbach,50.1289,8.52146,Claranet Limited,30,425
+EU,FR,Paris,48.8575,2.35138,Iguane Solutions SAS,30,1216
+EU,FR,Paris,48.8683,2.36629,Claranet SAS,30,201
+EU,GB,Watford,51.6403,-0.427123,British Telecommunications PLC,30,1651
+NA,US,Trexlertown,40.5481,-75.6057,"Amazon.com, Inc.",30,339
+NA,CA,La Sarre,48.7926,-79.201,XCD Telecom,30,112
+EU,GB,Edinburgh (South Gyle),55.9327,-3.31693,Pulsant (Scotland) Ltd,30,207
+EU,PL,Warsaw,52.2297,21.0122,SUPERMEDIA Sp.z.o.o.,30,252
+EU,AT,Vienna (Landstraße),48.2071,16.3835,GroupM Kommunikationsagentur GmbH,30,1169
+AS,CN,Zhongguan,39.9838,116.319,Internet Domain Name System Beijing Engineering Resrarch Center Ltd.,30,271
+EU,FR,Castelnau-le-Lez,43.6259,3.91073,Societe Francaise Du Radiotelephone - SFR SA,30,2725
+EU,FR,Paris,48.8575,2.35138,Orange S.A.,30,251
+AS,CN,Liuzhou,24.3255,109.415,China Unicom,29,1312
+AS,JP,Chiyoda City,35.694,139.754,IDC Frontier Inc.,29,246
+AS,KR,Incheon,37.4752,126.631,"Amazon.com, Inc.",29,2549
+EU,IT,Milan,45.4642,9.18998,REEVO S.P.A.,29,1063
+AS,TR,Istanbul,41.0082,28.9784,Euronet Telekomunikasyon A.S.,29,226
+EU,GB,Shirley,52.396,-1.81801,"Level 3 Communications, Inc.",29,1706
+EU,FR,Nanterre,48.8927,2.2107,BSO Network Solutions SAS,29,505
+AS,IR,Tehrān,35.7219,51.3347,Asiatech Data Transmission company,29,113
+AS,IN,Chennai,13.0827,80.2707,Tata Communications Limited,28,505
+AS,IN,Powai,19.1285,72.9253,NTTCINS,28,1607
+EU,AT,Vienna,48.2081,16.3713,Hutchison Drei Austria GmbH,28,171
+NA,US,South Salt Lake,40.7188,-111.888,"Amazon.com, Inc.",28,264
+EU,RO,Bucharest (Sector 2),44.4461,26.1481,EASYHOST SRL,28,725
+EU,FR,Paris,48.8701,2.32237,Sin dato,28,379
+EU,SI,Ljubljana,46.1018,14.462,HTTPool d.o.o.,28,308
+NA,US,St Louis,38.7022,-90.4319,"CenturyLink Communications, LLC",28,295
+AS,CN,Wuhan,30.5928,114.305,China Telecom Next Generation Carrier Network,28,1143
+AS,KR,Seongnam-si,37.3918,127.113,"Facebook, Inc.",28,551
+EU,GB,London,51.5118,-0.0943526,Sin dato,28,224
+EU,DE,Frankfurt am Main,50.1109,8.68213,FIRST SERVER LIMITED,28,162
+EU,RU,Moscow,55.7477,37.588,HLL LLC,28,418
+EU,IT,Rome,41.8301,12.4922,Il Sole 24 Ore SpA,27,153
+NA,CA,Toronto (Etobicoke),43.626,-79.5577,Aptum Technologies,27,338
+NA,US,Boston,42.3601,-71.0589,"Akamai Technologies, Inc.",27,393
+NA,US,Chicago (West Loop),41.8769,-87.6499,Unitas Global,27,679
+OC,AU,Sydney,-33.8688,151.209,Akamai International B.V.,27,6736
+AS,JP,Chiyoda City,35.6906,139.77,"QTnet,Inc.",27,545
+AS,ID,Jakarta,-6.27398,106.821,PT Bukalapak.com,27,342
+EU,ES,Madrid,40.4167,-3.70329,IONOS SE,27,263
+SA,BR,São Paulo,-23.5558,-46.6396,BANCO DO BRASIL S.A.,27,128
+EU,GB,London,51.5074,-0.127758,Rackspace Ltd.,27,301
+AS,IN,Jaipur (C Scheme),26.9031,75.7987,"Department of Information Technology & Communication, Rajasthan",27,350
+SA,BR,São Paulo,-23.5558,-46.6396,Itau Unibanco S.A.,27,292
+EU,CH,Opfikon,47.4347,8.56711,"Akamai Technologies, Inc.",27,299
+NA,US,Montoursville,41.2542,-76.9205,Greater Vision Microwave Networks LLC,27,354
+EU,FI,Helsinki,60.1733,24.941,DNA Oyj,26,104
+NA,US,Chicago (West Loop),41.8768,-87.6501,Internap Holding LLC,26,207
+NA,US,Washington D.C.,38.9073,-77.0369,"NTT America, Inc.",26,515
+AS,CN,Haidian (Haidian Qu),39.9794,116.338,Sin dato,26,285
+EU,DE,Munich,48.1351,11.582,ProSiebenSat.1 Tech & Services GmbH,26,100
+EU,FR,Lyon,45.7697,4.84507,Societe Francaise Du Radiotelephone - SFR SA,26,4395
+OC,AU,Noble Park,-37.965,145.173,"Akamai Technologies, Inc.",26,566
+NA,US,New York,40.7128,-74.006,OVH SAS,26,1853
+NA,US,Houston,29.7604,-95.3698,Akamai International B.V.,26,591
+EU,FR,Paris,48.8692,2.27702,BSO Network Solutions SAS,26,129
+AS,HK,Wan Chai,22.2791,114.174,China Telecom Global Limited,26,134
+NA,MX,Monterrey,25.6866,-100.316,"Akamai Technologies, Inc.",26,1039
+OC,AU,Sydney,-33.8688,151.209,Sin dato,25,508
+SA,AR,Buenos Aires,-34.6132,-58.3772,Telecom Argentina S.A.,25,114
+AS,JP,Chiyoda City,35.694,139.754,"GMO Internet Group, Inc.",25,183
+AS,JP,Yokohama,35.4437,139.638,"Cloudflare, Inc.",25,2991
+NA,US,Dallas,32.7767,-96.797,IPTP LTD,25,703
+NA,US,New York,40.7555,-73.9706,Sin dato,25,313
+EU,DK,Copenhagen,55.6828,12.5867,Sentia Denmark A/S,25,346
+EU,GB,North Hykeham,53.1967,-0.598133,GTT Communications Inc.,25,3554
+AS,MY,Kuala Lumpur,3.14163,101.695,Google LLC,25,311
+AS,CN,Liuzhou (Chengzhong Qu),24.3386,109.432,China Mobile Communications Corporation,25,196
+NA,US,Cincinnati,39.1031,-84.512,Victoria's Secret,24,2282
+EU,CZ,Prague,50.0781,14.4721,CASABLANCA INT a.s.,24,545
+AS,SG,Singapore,1.35208,103.82,Microsoft Corporation,24,291
+NA,US,Burbank,34.1568,-118.325,"Disney Worldwide Services, Inc.",24,317
+NA,CA,Fredericton (College Hill),45.9454,-66.6424,NB-PEI Educational Computer Network,24,702
+AS,SG,Singapore (Downtown Core),1.28571,103.854,"AppNexus, Inc",24,245
+EU,RU,Moscow,55.7558,37.6173,JSC Selectel,24,287
+EU,IT,Milan,45.5002,9.18347,OVH SAS,24,244
+EU,NL,Amsterdam,52.3676,4.90414,"AppNexus, Inc",24,345
+NA,CA,Montreal,45.5019,-73.5674,Cogent Communications,24,245
+EU,FR,Strasbourg,48.6016,7.75869,Euro-Information-Europeenne de Traitement de l'Information SAS,24,1302
+AS,JP,Yaizu (Oyaizu),34.8564,138.279,TOKAI Communications Corporation,24,2444
+AS,JP,Osaka,34.6937,135.502,NetIRD Inc.,24,273
+AS,KR,Seoul (Toegye-ro),37.5614,126.996,GSNeotek,24,952
+NA,US,Pensacola,30.4077,-87.219,Cox Communications Inc.,24,182
+EU,PL,Warsaw (Śródmieście),52.2343,21.0323,DevonStudio Sp. z o.o.,24,126
+NA,US,Cambridge (East Cambridge),42.3654,-71.0879,Zayo Bandwidth,24,150
+NA,US,Monroe,32.5891,-92.0664,"CenturyLink Communications, LLC",24,239
+EU,DE,Frankfurt am Main,50.1109,8.68213,"Cloudflare, Inc.",24,6741
+AS,KR,Seoul (Toegye-ro),37.561,126.995,CDNetworks,24,984
+AS,MY,Bercham,4.6411,101.139,TM TECHNOLOGY SERVICES SDN BHD,24,262
+AS,KR,Yongsan-dong (Gangnam-daero),37.5062,127.026,LG DACOM Corporation,23,125
+EU,BY,Minsk,53.9006,27.559,DataHata Ltd,23,347
+AS,IN,Raipur,21.2514,81.6296,"Cloudflare, Inc.",23,310
+EU,GB,Ruddington,52.8858,-1.14112,Experian International Unlimited,23,188
+NA,US,Boston,42.3601,-71.0589,Hostinger International Limited,23,308
+EU,FR,Lille,50.6292,3.05726,Orange S.A.,22,3001
+AS,KR,Seongnam-si (Daewangpangyo-ro),37.3783,127.102,LG DACOM Corporation,22,88
+AS,CN,Beijing,39.9042,116.407,Cloud Computing Corporation,22,625
+AS,CN,Haidian (Haidian Qu),39.9876,116.336,CNIC-CAS,22,255
+NA,US,New York,40.7399,-73.9905,Google LLC,22,199
+AS,JP,Osaka,34.6937,135.502,"Amazon.com, Inc.",22,195
+NA,US,Winchester,36.13,-115.119,"Amazon.com, Inc.",22,451
+AS,JP,Chiyoda City,35.6906,139.77,Sin dato,22,1393
+EU,NL,Zwolle,52.5108,6.12342,Combell NV,22,122
+EU,DE,Berlin (Charlottenburg-Wilmersdorf),52.5234,13.3224,Strato AG,22,197
+NA,US,Chicago,41.8781,-87.6298,Charter Communications Inc,22,438
+NA,US,New York,40.7128,-74.006,"FIX FLYER, LLC",22,333
+AS,CN,Haidian (Haidian Qu),39.9999,116.315,"China Mobile Communications Group Co., Ltd",22,203
+EU,CH,Zurich (Kreis 9),47.3877,8.49624,Sin dato,22,64
+AS,IN,Mumbai,19.076,72.8777,Mahanagar Telephone Nigam Limited,22,108
+AS,CN,Beijing,39.9042,116.407,China Telecom,22,153
+EU,FI,Helsinki,60.1677,24.9281,OVH SAS,22,257
+AS,TR,Ataşehir,40.9741,29.0985,ICT TELEKOMUNIKASYON SANAYI TICARET A.S.,22,686
+EU,NL,Amsterdam,52.3676,4.90414,DataWeb Global Group B.V.,22,283
+NA,US,North Valley,35.1734,-106.623,"Amazon.com, Inc.",22,357
+NA,US,Chicago,41.8781,-87.6298,MetaPeer,22,3199
+NA,US,Eden Prairie,44.8547,-93.4708,Akamai International B.V.,22,124
+NA,US,New York,40.7555,-73.9862,"Nasdaq, Inc.",22,774
+EU,NL,Naaldwijk,51.9924,4.20803,WorldStream B.V.,21,273
+AS,ID,Jakarta,-6.18317,106.819,Telekomunikasi Indonesia (PT),21,130
+NA,US,Washington D.C.,38.9072,-77.0369,HopOne Internet Corporation,21,349
+NA,US,Washington D.C.,38.9072,-77.0369,Thryv,21,401
+AS,CN,Chaowai (Chaoyang),39.98,116.491,China Mobile Communications Corporation,21,241
+NA,US,Armonk,41.1085,-73.7223,IBM Cloud,21,303
+NA,US,Dallas,32.9339,-96.828,IBM Cloud,21,201
+NA,CA,Kelowna,49.8339,-119.524,Provision Data Systems Inc.,21,130
+NA,US,Denver (Civic Center),39.7343,-104.988,"Ntirety, Inc.",21,181
+NA,US,Kansas City (The Coves),39.2383,-94.6426,"Joe's Datacenter, LLC",21,385
+NA,US,Miami,25.7617,-80.1918,"Amazon.com, Inc.",21,220
+AS,CN,Chaowai (Chaoyang),39.9109,116.543,"Beijing Internet Harbor Technology Co., Ltd",21,132
+AS,IR,Tehran,35.7082,51.4153,Respina Networks & Beyond PJSC,21,103
+EU,DE,Frankfurt am Main,50.1109,8.68213,SAP SE,21,562
+EU,GB,London,51.5072,-0.127586,Cogent Communications,20,196
+EU,DE,Frankfurt am Main,50.1109,8.68213,"NetActuate, Inc",20,208
+EU,NL,Amsterdam,52.3676,4.90414,Amarutu Technology Ltd,20,56
+NA,MX,Azcapotzalco (San Francisco Tetecala),19.478,-99.1906,"Operbes, S.A. de C.V.",20,96
+AS,TR,Akziyaret,37.3214,38.7787,Sin dato,20,343
+EU,DE,Hamburg (Hamburg-Mitte),53.5446,9.9816,Sin dato,20,755
+AS,JP,Minato,35.6612,139.741,Sin dato,20,299
+AS,CN,Jingshan (Dongcheng District),39.8694,116.398,Beijing WangJu Interworking Information Technology Co. LTD,20,257
+NA,US,Sterling,39.0067,-77.4291,comScore B.V.,20,99
+NA,US,Los Angeles,34.0549,-118.243,"Dynascale Technologies, Inc.",20,212
+AS,TW,Taipei,25.0364,121.523,Data Communication Business Group,20,76
+AS,JP,Ōta-ku (1 Chome),35.5576,139.711,FUJITSU LIMITED,20,80
+NA,US,Washington D.C.,38.9072,-77.0369,"Square, Inc.",20,210
+AS,TW,Taipei,25.0261,121.554,"Taiwan Fixed Network, Telco and Network Service Provider.",20,105
+NA,US,Dulles,38.9639,-77.4496,"GitHub, Inc.",20,159
+NA,US,Saint Peter,44.3237,-93.9757,Gustavus Adolphus College,20,60
+SA,BR,São Paulo,-23.5558,-46.6396,Microsoft Corporation,20,264
+AS,CN,Huaqingbei (Futian Qu),22.5441,114.084,Shenzhen Tencent Computer Systems Company Limited,20,350
+NA,US,Shafter,35.5005,-119.272,Massachusetts Institute of Technology,20,227
+EU,CZ,Prague,50.0755,14.4378,"Akamai Technologies, Inc.",20,418
+NA,US,State College (University Park),40.8148,-77.8653,The Pennsylvania State University,20,76
+NA,US,Chicago,41.8781,-87.6298,"CenturyLink Communications, LLC",20,189
+AS,IR,Tehran (District 3),35.7593,51.4389,"Ravand Tazeh Co,.PJS.",19,57
+AS,CN,Wenzhou,27.9949,120.699,"WENZHOU, ZHEJIANG Province, P.R.China.",19,119
+NA,CA,Toronto,43.6532,-79.3832,Akamai International B.V.,19,1473
+AS,IL,Petah Tikva,32.084,34.8878,Akamai International B.V.,19,328
+NA,US,San Francisco,37.7749,-122.419,"Amazon.com, Inc.",19,1338
+NA,US,New York,40.753,-73.9785,Sin dato,19,687
+EU,NL,Amsterdam,52.3676,4.90414,Intermax Group B.V.,19,386
+EU,FR,Paris,48.8626,2.35766,Orange Business Services SA,19,140
+EU,CH,Bern,46.948,7.44745,Private Layer INC,19,54
+NA,US,Arlington Heights,42.0405,-87.976,GigeNET,19,109
+NA,CA,Greater Sudbury (Sudbury),46.5049,-81.0077,Vianet Inc.,19,104
+NA,US,Las Vegas,36.0599,-115.21,"SWITCH, LTD",19,188
+EU,FR,Paris,48.8707,2.32047,Iguane Solutions SAS,19,134
+NA,US,Rialto,34.1064,-117.37,"Amazon.com, Inc.",19,686
+EU,NL,Haarlem,52.3874,4.64622,Akamai International B.V.,18,1009
+NA,US,Vancouver,45.6556,-122.592,"CenturyLink Communications, LLC",18,1397
+NA,US,Clayton,47.9966,-117.559,"Atlantic Metro Communications II, Inc.",18,226
+NA,US,Rochester,44.0289,-92.4881,IBM Cloud,18,554
+NA,US,Cupertino,37.3322,-122.011,Apple Inc.,18,2377
+AS,TR,Mahmutbey,41.0468,28.8104,Ideal Hosting Teknoloji A.S.,18,84
+AS,HK,Hong Kong,22.3193,114.169,"Mach Dilemma, LLC",18,100
+NA,US,Secaucus,40.788,-74.0546,Akamai International B.V.,18,472
+SA,BR,Taboão da Serra,-23.6237,-46.7796,Cia Proc. de Dados do Estado de S Paulo - Prodesp,18,100
+AS,CN,Fuzhou (Gulou Qu),26.0864,119.304,Chinanet,18,240
+NA,US,Chalfont,40.2657,-75.2197,"Amazon.com, Inc.",18,249
+EU,DE,Berlin (Friedrichshain-Kreuzberg),52.5063,13.4411,Sin dato,18,260
+EU,NL,Delft,51.9825,4.37278,Prolocation B.V.,18,70
+SA,BR,São Paulo,-23.5558,-46.6396,"Amazon.com, Inc.",18,268
+EU,DE,Frankfurt am Main,50.1109,8.68213,SAP America Inc.,18,237
+NA,US,Garden City,40.7229,-73.6317,Webair Internet Development Company Inc.,18,214
+AS,KR,Yongsan-dong,37.5503,126.997,Korea Telecom,18,333
+NA,US,Los Angeles,34.0549,-118.243,"Amazon.com, Inc.",18,202
+NA,US,Northville,42.4319,-83.4781,"Liquid Web, L.L.C",18,348
+EU,IT,Monteroni di Lecce,40.3193,18.0916,"Akamai Technologies, Inc.",18,225
+EU,CZ,Prague,50.0755,14.4378,SH.cz s.r.o.,18,166
+NA,US,Los Angeles (Downtown Los Angeles),34.0502,-118.241,Colocation America Corporation,18,368
+NA,CA,Vancouver,49.2827,-123.121,Akamai International B.V.,18,241
+AS,IN,Bengaluru,12.9716,77.5946,Bharat Sanchar Nigam Ltd,17,50
+AS,CN,Jinan,36.6518,117.12,"Jinan,250000",17,138
+AS,CN,Suzhou,31.2983,120.583,China Unicom,17,998
+EU,SE,Kista (Akalla),59.4225,17.9181,G-Core Labs S.A.,17,1646
+NA,US,Greenville,34.8526,-82.394,Oath Holdings Inc.,17,296
+AS,JP,Chiyoda City,35.6916,139.768,J-Stream Inc.,17,6770
+AS,CN,Jinrongjie (Xicheng District),39.9155,116.36,China Mobile Communications Corporation,17,201
+AS,CN,Haidian (Haidian Qu),39.9071,116.323,Sin dato,17,98
+NA,US,Chicago,41.8781,-87.6298,"tzulo, inc.",17,556
+EU,DE,Frankfurt am Main,50.1109,8.68213,"AppNexus, Inc",17,240
+NA,US,Parsippany-Troy Hills Township,40.8509,-74.4545,"Atlantic Metro Communications II, Inc.",17,110
+AS,CN,Xi'an,34.2658,108.954,CHINA UNICOM China169 Backbone,17,344
+EU,NL,Amsterdam (Amsterdam-Oost),52.3554,4.95188,"Tempest Hosting, LLC",16,116
+AS,JP,Shibuya City,35.6591,139.704,"Amazon.com, Inc.",16,109
+AS,CN,Wenquan,26.0998,119.297,Chinanet,16,64
+NA,US,Lafayette,30.2241,-92.0198,Zayo Bandwidth,16,97
+EU,FR,Saint-Denis,48.928,2.35199,M247 Europe SRL,16,1263
+EU,FR,Paris,48.8566,2.35222,"Amazon.com, Inc.",16,130
+AS,IN,Chennai,13.0843,80.2705,"NetActuate, Inc",16,97
+NA,US,Little Rock,34.7445,-92.288,"Comcast Cable Communications, LLC",16,78
+NA,CA,Montreal,45.5019,-73.5674,"Cloudflare, Inc.",16,692
+EU,NL,Rotterdam,51.9309,4.41756,i3D.net B.V,16,283
+AS,JP,Chiyoda City,35.6906,139.77,Equinix (EMEA) Acquisition Enterprises B.V.,16,142
+SA,BR,São Paulo,-23.5558,-46.6396,"Akamai Technologies, Inc.",16,183
+NA,US,Chicago (West Loop),41.8796,-87.6414,Honeycomb Internet Services,16,90
+AS,TW,Taipei,25.033,121.565,"Pittqiao Network Information Co.,Ltd.",16,200
+NA,US,Tukwila,47.4939,-122.294,Digital Fortress,16,150
+EU,DE,Nuremberg (Westliche Außenstadt),49.4595,11.0331,Wavecon GmbH,16,202
+NA,US,San Francisco (Belden Place),37.791,-122.403,"Amazon.com, Inc.",16,198
+NA,US,Irvine (Irvine Business Complex),33.6904,-117.841,"Latisys-Irvine, LLC",16,128
+NA,US,Richardson,32.992,-96.7126,"AT&T Enterprises, LLC",16,370
+NA,US,Coconut Creek,26.3125,-80.1895,"CenturyLink Communications, LLC",16,258
+NA,US,Valley Cottage,41.1275,-73.9455,Webair Internet Development Company Inc.,16,221
+EU,NL,Halfweg,52.3845,4.71717,FDCservers.net,16,776
+EU,FR,Roubaix,50.6927,3.17785,OVH SAS,16,112
+NA,US,Pittsburgh,40.4406,-79.9959,"Akamai Technologies, Inc.",16,161
+NA,US,Reston (Hunter Mill District),38.9502,-77.3778,Cogent Communications,16,162
+AS,IN,Bhopal,23.2599,77.4126,Bharti Airtel Limited,16,987
+EU,NL,Amsterdam,52.3676,4.90414,DEFT.COM,16,353
+NA,US,Dallas,32.7892,-96.8217,G-Core Labs S.A.,16,320
+NA,US,Los Angeles,34.0549,-118.243,HostPapa,15,126
+NA,US,West Hollywood (Central-Alameda),34.0881,-118.379,"ARP NETWORKS, INC.",15,80
+NA,US,New York,40.7128,-74.006,"DataPipe, Inc.",15,217
+EU,NL,Rotterdam (Overschie),51.9578,4.46047,ING Bank N.V.,15,209
+EU,IT,Rome,41.7973,12.4864,Sogei Societa' Generale d' Informatica S.p.A.,15,73
+NA,US,Manhattan,39.1738,-96.5649,KansasNet / Fox Business Systems,15,75
+NA,US,Chicago (Loop),41.8762,-87.6315,"tzulo, inc.",15,303
+EU,MD,Chisinau,47.0238,28.8371,Trabia SRL,15,105
+AS,CN,Guancheng,34.7657,113.753,China Telecom,15,108
+AS,TH,Bangkok,13.7563,100.502,Telstra International Limited,15,242
+NA,US,San Jose,37.3387,-121.885,Fortinet Inc.,15,579
+EU,IT,Elmas,39.2278,9.06972,Tiscali Italia S.P.A.,15,89
+NA,US,Irving,32.814,-96.9489,Akamai International B.V.,15,298
+NA,US,Phoenix (Southbank),33.416,-112.009,"Namecheap, Inc.",15,66
+NA,US,Ashburn,39.0438,-77.4874,DataWeb Global Group B.V.,15,108
+NA,US,San Jose (Berryessa),37.3861,-121.901,Avago Technologies U.S. Inc.,15,122
+NA,US,Juneau,58.3019,-134.42,"Amazon.com, Inc.",15,217
+NA,US,Los Angeles,34.0549,-118.243,Zenlayer Inc,15,79
+NA,US,Agoura Hills,34.1461,-118.776,"AT&T Enterprises, LLC",15,383
+NA,US,Seattle (Downtown Seattle),47.6083,-122.333,Sin dato,15,214
+AS,VN,Hanoi,21.0278,105.834,CMC Telecom Infrastructure Company,15,30
+NA,US,New York,40.7466,-73.9811,CHEETAHMAIL,15,217
+EU,RU,Moscow,55.7558,37.6173,"\"JSC \"\"Alfa-Bank\"\"\"",15,665
+EU,DE,Hürth (Hermülheim),50.8839,6.90004,Sin dato,14,172
+EU,RU,Ryazan,54.613,39.743,JSC RTComm.RU,14,199
+AS,JP,Minato,35.6698,139.744,NHN Techorus Corp.,14,44
+EU,FR,Paris,48.8575,2.35138,Claranet Limited,14,206
+SA,BR,Mogi das Cruzes,-23.5217,-46.186,"Cloudflare, Inc.",14,2797
+NA,US,Weston,42.3704,-71.2751,Verizon Business,14,158
+AF,EG,Giza (Al Doqi),30.0383,31.2114,LINKdotNET AS number,14,142
+NA,US,Portland (Southwest Portland),45.5182,-122.674,Flexential Colorado Corp.,14,127
+NA,US,Atlanta (Buckhead),33.8388,-84.3791,"Sharecare, Inc.",14,4679
+NA,US,Ashburn,39.0438,-77.4874,Wave Broadband,14,134
+EU,RU,St Petersburg,59.9713,30.3126,Internet Projects JSC,14,313
+NA,US,Broomfield,39.9262,-105.095,Sin dato,14,138
+EU,BE,Charleroi,50.4081,4.44761,"Cloudflare, Inc.",14,185
+NA,US,Los Angeles,34.0522,-118.244,"Amazon.com, Inc.",14,227
+NA,US,Southfield,42.4836,-83.2725,Sin dato,14,64
+AS,TW,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",14,75
+EU,DE,Berlin (Charlottenburg-Wilmersdorf),52.5188,13.3257,Hofnetz &IT Services GmbH,14,74
+EU,HU,Budapest (IV. kerület),47.5605,19.0873,Magyar Telekom plc.,14,44
+NA,US,Los Angeles,34.0549,-118.243,HostRoyale Technologies Pvt Ltd,14,62
+NA,US,Herndon,38.9696,-77.3861,Aptum Technologies,14,126
+NA,US,Santa Clara,37.3654,-121.962,Hosting Solution Ltd.,14,151
+EU,ES,Madrid,40.4168,-3.70379,Euskaltel S.A.,14,71
+EU,PL,Warsaw (Mokotów),52.1814,20.9927,T-Mobile Polska S.A.,14,92
+NA,US,San Diego (Kearny Mesa),32.8325,-117.123,Sin dato,14,140
+NA,US,Allegheny (historical),40.4828,-80.0367,TeraSwitch Networks Inc.,14,168
+AS,JP,Chiyoda City,35.6916,139.768,"NTT PC Communications, Inc.",14,120
+EU,DK,Billund,55.7326,9.12228,Sin dato,14,105
+EU,RU,Moscow,55.7558,37.6173,"\"JSC \"\"ER-Telecom Holding\"\"\"",14,136
+EU,DE,Nuremberg,49.4543,11.0746,ODN OnlineDienst Nordbayern GmbH & Co. KG,14,129
+NA,US,Edison,40.5187,-74.4121,"Akamai Technologies, Inc.",14,744
+EU,FI,Helsinki,60.1699,24.9384,RIPE Network Coordination Centre,14,203
+NA,US,Burbank,34.1558,-118.325,Sin dato,14,201
+NA,US,Fort Worth (Sundance Square),32.7505,-97.3315,National Weather Service Southern Region Headquarters,13,50
+NA,US,Yakima,47.7511,-120.74,Wholesail networks LLC,13,132
+EU,IT,Milan,45.4941,9.17864,Aruba S.p.A.,13,150
+AS,IR,Tehran,35.7477,51.4021,Asiatech Data Transmission company,13,241
+AS,JP,Chiyoda City,35.694,139.754,Google LLC,13,222
+NA,US,Washington D.C. (Northwest Washington),38.8978,-77.0552,Cogent Communications,13,120
+EU,IT,Milan,45.4685,9.1824,Akamai International B.V.,13,172
+EU,CH,Unterägeri,47.1368,8.58309,Variti+ LLC,13,107
+EU,NL,Amsterdam,52.3676,4.90414,Scalaxy B.V.,13,42
+EU,NL,Haarlem,52.3947,4.66399,"HIVELOCITY, Inc.",13,120
+AS,IR,Tehran,35.7331,51.4422,Afranet,13,506
+NA,US,Mountain View,37.4221,-122.085,Google Ireland Limited,13,164
+AS,TR,Bornova,38.4246,27.2348,Netdirekt A.S.,13,300
+EU,DE,Frankfurt am Main,50.1109,8.68213,Google LLC,13,216
+EU,ES,Vitoria-Gasteiz,42.8507,-2.69377,"SAREnet, S.A.",13,61
+NA,US,Dallas,32.7767,-96.797,"Automattic, Inc",13,224
+NA,US,Dallas,32.789,-96.7989,"The Constant Company, LLC",13,81
+AS,JP,Osaka,34.6937,135.502,Meteverse Limited.,13,378
+EU,NL,Amsterdam,52.3676,4.90414,"Akamai Technologies, Inc.",12,229
+NA,US,Atlanta,33.7501,-84.3885,Aptum Technologies,12,1513
+AS,IL,Tel Aviv,32.0853,34.7818,Google LLC,12,152
+AS,TR,Buca,38.4324,27.2057,Netdirekt A.S.,12,210
+AS,CN,Guangzhou,23.1291,113.264,Chinanet,12,56
+NA,US,Tempe (South Tempe),33.3359,-111.894,"GoDaddy.com, LLC",12,133
+NA,US,Minkler,36.7783,-119.418,"Alibaba (US) Technology Co., Ltd.",12,106
+EU,RU,Moscow,55.7961,37.4084,CDNvideo LLC,12,304
+EU,GB,Reading,51.4451,-0.975948,Pulsant (Scotland) Ltd,12,51
+NA,US,College,34.7081,-92.2213,"Amazon.com, Inc.",12,115
+OC,NZ,Christchurch,-43.532,172.637,Sin dato,12,72
+EU,GB,Glasgow,55.8571,-4.26168,IOMART CLOUD SERVICES LIMITED,12,166
+AS,IN,New Delhi,28.6139,77.2088,Tata Communications Limited,12,2908
+EU,DE,Trier,49.7444,6.68483,Johannes Gutenberg-Universitaet Mainz,12,630
+EU,DE,Berlin (Charlottenburg-Wilmersdorf),52.5038,13.3245,Orange Business Digital Germany GmbH,12,98
+NA,US,Grapevine,32.9263,-97.0763,Sin dato,12,217
+AS,JP,Chiyoda,35.6916,139.768,"Japan Airlines Co.,Ltd.",12,194
+EU,DE,Düsseldorf (Stadtbezirke 06),51.2672,6.8174,WIIT AG,12,126
+AS,KR,Gangnam-gu,37.4886,127.052,KINX,12,104
+EU,NL,Amsterdam,52.3676,4.90414,Hostiserver Ltd,12,147
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.7419,37.6398,MTS PJSC,12,97
+NA,US,Mountain View,37.422,-122.085,Google LLC,12,53
+NA,US,Ashburn,39.0418,-77.4744,G-Core Labs S.A.,12,160
+NA,US,Chicago,41.8781,-87.6298,Windstream Communications LLC,12,261
+EU,BE,Waterloo,50.7091,4.38117,atom86 BV,12,58
+AS,JP,Shinagawa (Higashishinagawa),35.6191,139.751,"Kamatera, Inc.",12,82
+NA,US,Hillsboro (Tanasbourne),45.5473,-122.898,Opus Interactive,12,470
+NA,US,Elk Grove Village,42.0039,-87.9703,Akamai International B.V.,12,95
+EU,NO,Oslo,59.9122,10.7313,Akamai International B.V.,12,950
+AS,CN,Guangzhou,23.1317,113.266,CHINANET Guangdong province network,12,153
+AS,TR,Fatih,41.0376,28.9323,PremierDC Veri Merkezi Anonim Sirketi,12,229
+NA,US,Spring,30.066,-95.459,NETWORK TRANSIT HOLDINGS LLC,11,1794
+SA,BR,Rio de Janeiro,-22.9068,-43.1729,"Akamai Technologies, Inc.",11,151
+EU,NL,Amsterdam,52.3676,4.90414,Equinix (EMEA) Acquisition Enterprises B.V.,11,107
+NA,US,Stockertown,40.754,-75.2621,"Amazon.com, Inc.",11,130
+AS,KR,Anyang-si,37.3835,126.934,Rinnai Korea,11,416
+EU,HU,Budapest,47.4979,19.0402,Servergarden Kft.,11,119
+AS,MY,Kuala Lumpur,3.139,101.687,TM TECHNOLOGY SERVICES SDN BHD,11,171
+NA,US,North Bergen,40.7969,-74.0311,"Level 3 Communications, Inc.",11,195
+AS,CN,Wanrongjiang (Jishou),28.2624,109.698,Chinanet,11,249
+AS,SG,Singapore,1.35208,103.82,LinkedIn Corporation,11,118
+NA,US,Reston,38.9567,-77.3623,Sin dato,11,45
+NA,US,Kent,47.4117,-122.245,"The Constant Company, LLC",11,52
+NA,US,Hulbert,35.9311,-95.1342,"Lake Region Electric Cooperative, Inc",11,258
+NA,US,Newark,40.7357,-74.1724,"CenturyLink Communications, LLC",11,195
+EU,PT,Rio de Mouro,38.7661,-9.32804,Vodafone Portugal - Communicacoes Pessoais S.A.,11,104
+NA,US,Bloomfield,41.8265,-72.7301,"Amazon.com, Inc.",11,121
+AS,KR,Hanam (Sangil-ro 10-gil),37.5506,127.174,SEJONG NETWORKS,11,36
+AS,IN,Kolkata,22.5744,88.3629,Bharti Airtel Limited,11,175
+EU,DE,Göttingen (Geismar),51.511,9.94026,Vodafone GmbH,11,102
+NA,US,New York,40.7515,-73.9736,DigitalOne AG,10,56
+EU,IE,Dublin,53.3498,-6.26031,Sin dato,10,107
+NA,US,San Jose,37.3387,-121.885,"DataPipe, Inc.",10,46
+NA,US,Dallas,32.7767,-96.797,Eonix Corporation,10,50
+NA,US,San Jose (Brokaw),37.3882,-121.889,"Leaseweb USA, Inc.",10,116
+NA,US,Sterling,39.0239,-77.4152,"CenturyLink Communications, LLC",10,104
+EU,PL,Warsaw,52.2077,21.0451,Agora TC Sp.z.o.o.,10,36
+NA,BZ,Belmopan,17.2523,-88.7641,IQWeb FZ-LLC,10,313
+NA,US,Washington D.C.,38.9072,-77.0369,"Cloudflare, Inc.",10,91
+NA,CA,Toronto (Old Toronto),43.648,-79.3887,OVH SAS,10,246
+AS,TR,Mahmutbey,41.0317,28.822,Turkiye Garanti Bankasi A.S.,10,250
+AS,MY,Kuala Lumpur,3.14163,101.695,"Amazon.com, Inc.",10,90
+SA,BR,Guarapari,-20.6709,-40.5001,FDCservers.net,10,152
+EU,DE,Karlsruhe (Grötzingen),49.033,8.47363,Netversor GmbH,10,98
+NA,US,Denver (Elyria-Swansea),39.7774,-104.968,Iron Mountain Data Center,10,50
+EU,NL,Maasdijk,51.9581,4.22581,WorldStream B.V.,10,131
+NA,US,Morristown,40.7968,-74.4815,"Leaseweb USA, Inc.",10,173
+EU,NO,Oslo (Ullevål),59.9427,10.7207,SIKT - KUNNSKAPSSEKTORENS TJENESTELEVERANDOR,10,145
+AS,JP,Kawasaki,35.6014,139.61,ARTERIA Networks Corporation,10,82
+NA,US,Little Rock,34.7447,-92.4159,"TierPoint, LLC",10,141
+AF,EG,Giza,30.0407,31.2094,LINKdotNET AS number,10,162
+NA,CA,Waterloo,43.5071,-80.547,Internet Names For Business Inc.,10,153
+NA,PA,Panama City,8.98238,-79.5199,"Cloudflare, Inc.",10,1461
+NA,US,Minneapolis,44.9778,-93.265,"Comcast Cable Communications, LLC",10,52
+AS,IN,Chennai,13.0827,80.2707,Reliance Communications Limited,9,93
+EU,DE,Frankfurt am Main,50.1109,8.68213,Deutsche Telekom AG,9,62
+EU,FR,Loyettes,45.775,5.20148,SkyLink Data Center BV,9,126
+EU,DE,Frankfurt am Main (Innenstadt I),50.1111,8.66105,Plus.line AG,9,149
+EU,RU,Moscow,55.8049,37.5207,"\"\"\"Domain names registrar REG.RU\"\"",9,96
+AS,ID,Jakarta,-6.19225,106.805,"PT Bank Central Asia, Tbk",9,35
+AS,CN,Nanjing (Jiangning Qu),31.7762,118.842,Chinanet,9,100
+SA,BR,Brasília,-15.7975,-47.8919,CAIXA ECONOMICA FEDERAL,9,81
+NA,US,McLean,38.9243,-77.2135,Sin dato,9,136
+NA,US,Chicago,41.8781,-87.6298,"Dropbox, Inc.",9,1637
+NA,US,Dallas,32.7767,-96.797,"1515 ROUNDTABLE DR PROPERTY, LLC",9,45
+EU,DE,Stralsund,54.3368,13.069,1&1 Versatel GmbH,9,246
+NA,US,Virginia City,39.3096,-119.65,"Amazon.com, Inc.",9,144
+EU,DE,Nuremberg (Südöstliche Außenstadt),49.4103,11.1302,noris network AG,9,91
+AS,TW,Neihu District,25.0813,121.569,"Chunghwa Telecom Co., Ltd.",9,305
+AS,JP,Minato,35.6755,139.735,"BroadBand Tower, Inc.",9,55
+AS,SG,Singapore,1.35208,103.82,Google LLC,9,129
+NA,US,Boston (D Street / West Broadway),42.3535,-71.0446,"TowardEX Technologies International, Inc.",9,44
+NA,US,North New Hyde Park,40.7579,-73.6951,"NewtekOne, Inc.",9,175
+NA,US,North Bay Village,25.8462,-80.1539,Zayo Bandwidth,9,141
+AS,CN,Beijing,39.9042,116.407,Huawei Cloud Service data center,8,54
+NA,US,Ashburn,39.0438,-77.4874,"ADS Alliance Data Systems, Inc.",8,85
+AS,JP,Chiyoda City,35.694,139.754,"Amazon.com, Inc.",8,64
+AS,TW,Taipei,25.0365,121.55,"Chunghwa Telecom Co., Ltd.",8,36
+AS,IN,Mumbai (Bandra Kurla Complex),19.0635,72.8614,ICICIBank Ltd,8,40
+AS,ID,Jakarta,-6.23834,106.824,DTPNET NAP,8,81
+AF,ZA,Cape Town,-33.9249,18.4241,"Amazon.com, Inc.",8,64
+EU,FR,Paris,48.8219,2.3709,GANDI SAS,8,90
+EU,FR,Levallois-Perret,48.8986,2.29124,Dalenys Payment SAS,8,89
+NA,US,Wainaku,19.7447,-155.095,"Amazon.com, Inc.",8,133
+AS,CN,Sunhe (Sunhexiang),40.0411,116.524,China Unicom Beijing Province Network,8,40
+NA,US,Lexington-Fayette,38.0498,-84.4585,"Amazon.com, Inc.",8,65
+NA,US,Los Angeles (Downtown Los Angeles),34.0482,-118.256,Sharktech,8,36
+EU,DE,Berlin,52.52,13.405,"Amazon.com, Inc.",8,52
+AS,CN,Jinrongjie (Xicheng District),39.8879,116.39,China Unicom Beijing Province Network,8,56
+NA,US,New York,40.7128,-74.006,"BitGravity, Inc.",8,63
+NA,US,Long Beach (Los Cerritos),33.8213,-118.19,Performive LLC,8,124
+NA,US,Kansas City (The Coves),39.2383,-94.6426,CyberCloud Professionals LLC,8,223
+NA,US,Indianapolis (Mile Square),39.7709,-86.1585,"AT&T Services, Inc.",8,97
+NA,US,Wayne,40.0779,-75.414,"CenturyLink Communications, LLC",8,40
+AS,KZ,Almaty,43.238,76.8829,Newserverlife LLC,8,90
+NA,US,Franklin,36.7223,-86.5772,"Amazon.com, Inc.",8,72
+EU,IE,Galway,53.2994,-8.98909,ELECTRONIC ARTS IRELAND LIMITED,8,176
+NA,US,Boulder (Central Boulder),40.0177,-105.255,"Latisys-Irvine, LLC",8,56
+NA,US,Dallas,32.7767,-96.797,Google LLC,8,94
+AS,IN,Mumbai,19.076,72.8777,"Amazon.com, Inc.",8,64
+NA,US,Dallas,32.7767,-96.797,"Total Uptime Technologies, LLC",8,102
+EU,RU,Moscow (Tsentralnyy administrativnyy okrug),55.743,37.6016,"\"\"\"Domain names registrar REG.RU\"\"",8,75
+AS,CN,Nanjing,32.0607,118.763,Chinanet Jiangsu,8,109
+SA,VE,Caracas,10.488,-66.8792,"BANESCO BANCO UNIVERSAL, C.A.",8,143
+EU,IT,Milan,45.4642,9.18998,Aruba S.p.A.,8,52
+NA,US,San Antonio (Village North),29.5136,-98.4072,Aptum Technologies,8,36
+NA,US,Ashland,38.7745,-92.2571,"Amazon.com, Inc.",8,46
+NA,CA,Ottawa,45.4201,-75.7003,"Cloudflare, Inc.",8,375
+AS,CN,Taohua,28.6742,115.91,Chinanet,8,147
+NA,CA,Vancouver,49.2827,-123.121,Aptum Technologies,8,152
+EU,LU,Luxembourg,49.5807,6.11162,G-Core Labs S.A.,8,87
+AS,TH,Huai Khwang (Khwaeng Huai Khwang),13.7697,100.574,CS Loxinfo Public Company Limited,8,513
+NA,VG,Road Town (Wickhams Cay One),18.4243,-64.6201,"blue tech technology Co., Limited",7,38
+EU,DE,"Cologne (Porz, Cologne)",50.9107,7.0607,PlusServer GmbH,7,128
+SA,BR,São Paulo,-23.5558,-46.6396,Google LLC,7,105
+NA,US,Norman,35.2384,-97.4567,University of Oklahoma,7,36
+AS,CN,Jinrongjie (Xicheng District),39.9137,116.362,Sin dato,7,87
+EU,DE,Redwitz an der Rodach,50.1732,11.2083,"DigitalOcean, LLC",7,90
+EU,NL,Haarlem (Haarlem-Oost),52.3907,4.66555,LeaseWeb Netherlands B.V.,7,107
+EU,GB,London,51.5163,-0.0954593,Lloyds Banking Group PLC,7,62
+EU,DE,Kleinmachnow,52.4083,13.1885,Sin dato,7,1114
+NA,US,Orange,42.5886,-72.3096,FIBERNET Corp.,7,21
+NA,US,Ashburn,39.0438,-77.4874,DEFT.COM,7,61
+EU,RU,Moscow,55.8338,37.4025,"\"\"\"Domain names registrar REG.RU\"\"",7,95
+NA,US,Anacortes,48.5126,-122.613,Internap Holding LLC,7,88
+EU,GB,London,51.5072,-0.127586,Sparkpost,7,59
+NA,US,New York,40.7128,-74.006,Akamai International B.V.,7,106
+SA,BR,Balneário Camboriú (Centro),-26.9956,-48.6305,OVH SAS,7,56
+AS,CN,Taohua,28.6742,115.91,China Telecom,7,72
+AS,HK,Hong Kong,22.3193,114.169,"NetActuate, Inc",6,89
+AS,PH,Makati City,14.5547,121.024,ComClark Network & Technology Corp,6,49
+EU,SE,Stockholm (Norrmalm),59.3321,18.0529,Schibsted Media AS,6,72
+OC,AU,Sydney,-33.8688,151.209,Rackspace.com Hong Kong Limited,6,36
+NA,CA,Toronto (Old Toronto),43.6447,-79.3841,1651884 Ontario Inc.,6,36
+NA,US,Houston,29.7604,-95.3698,"Amazon.com, Inc.",6,56
+AF,KE,Nairobi,-1.29207,36.8219,"Amazon.com, Inc.",6,56
+EU,NL,Amsterdam,52.3676,4.90414,Viking Host B.V.,6,18
+NA,US,Piscataway,40.55,-74.4758,ReliableSite.Net LLC,6,34
+NA,US,New York,40.7128,-74.006,"NetActuate, Inc",6,68
+AS,TW,Taipei,25.033,121.565,"New Century InfoComm Tech Co., Ltd.",6,26
+NA,US,Marietta,33.9526,-84.5499,Akamai International B.V.,6,89
+NA,US,Newark (Central Ward),40.7349,-74.1668,Sin dato,6,106
+NA,US,San Jose,37.3387,-121.885,"Joyent, Inc.",6,35
+EU,IT,Cologno Monzese,45.5247,9.26414,R.T.I. SPA,6,49
+NA,US,Baltimore (Inner Harbor),39.286,-76.6095,"CenturyLink Communications, LLC",6,72
+AS,IN,Kolkata,22.5744,88.3629,"Amazon.com, Inc.",6,42
+NA,CA,Toronto,43.6532,-79.3832,Apple Inc.,6,48
+EU,SE,Stockholm,59.3327,18.0656,Videnca AB,6,55
+EU,FR,Levallois-Perret,48.897,2.28739,"Amazon.com, Inc.",6,23
+EU,DE,Frankfurt am Main (Bornheim/Ostend),50.1165,8.72587,firstcolo GmbH,6,61
+AS,JP,Chiyoda City,35.6896,139.768,KDDI CORPORATION,6,144
+AS,CN,Haidian (Haidian Qu),39.9636,116.287,China Unicom Beijing Province Network,6,72
+NA,US,Seattle (Downtown Seattle),47.6143,-122.339,"InMotion Hosting, Inc.",6,18
+EU,DE,Frankfurt am Main,50.1109,8.68213,Dosarrest Internet Security LTD,6,71
+NA,US,Smithfield,35.5085,-78.3394,"Amazon.com, Inc.",6,104
+AS,CN,Harbin,45.7567,126.642,CHINA UNICOM China169 Backbone,6,358
+NA,US,Royalton,40.1873,-76.73,"Amazon.com, Inc.",6,78
+EU,GB,Gosport,50.8253,-1.16307,IOMART CLOUD SERVICES LIMITED,6,96
+NA,US,Atlanta,33.7488,-84.3877,IBM Cloud,6,51
+AS,CN,Hangzhou,30.2656,120.154,China Mobile Communications Corporation,6,70
+NA,US,Ashburn,39.0438,-77.4874,"CenturyLink Communications, LLC",6,72
+EU,DE,Frankfurt am Main,50.1109,8.68213,Gaertner Datensysteme GmbH & Co. KG,6,45
+NA,US,Chicago (Loop),41.8861,-87.633,Sin dato,6,136
+NA,US,Los Angeles,34.0549,-118.243,"Akamai Technologies, Inc.",5,60
+AS,CN,Hohhot,40.8415,111.752,CHINA UNICOM China169 Backbone,5,58
+NA,US,Preston Heights,41.4917,-88.0817,"Amazon.com, Inc.",5,88
+NA,US,Los Angeles (Downtown Los Angeles),34.0483,-118.255,Performive LLC,5,54
+NA,US,Dulles,38.9625,-77.438,Sin dato,5,68
+NA,US,San Jose,37.3387,-121.885,"Exponential Interactive, Inc.",5,15
+NA,US,El Paso,31.7619,-106.485,Idealab,5,30
+NA,US,Dallas,32.9339,-96.828,Sin dato,5,43
+NA,US,Palo Alto (University South),37.4451,-122.161,Unitas Global,5,114
+AS,JP,Mitaka,35.6867,139.565,"SECOM Trust Systems Co.,Ltd.",5,110
+NA,US,Seattle (Downtown),47.6144,-122.339,"Allstream Business US, LLC",5,34
+NA,US,San Francisco,37.7304,-122.384,"DigitalOcean, LLC",5,34
+NA,US,New York,40.7128,-74.006,RCN,5,32
+AS,CN,Kunming,25.0453,102.71,CHINANET Yunnan province IDC1 network,5,65
+AS,CN,Xincheng,34.2649,108.954,CHINANET SHAANXI province Cloud Base network,5,59
+NA,US,Phoenix,33.4484,-112.074,"Amazon.com, Inc.",5,78
+NA,US,Los Angeles (Downtown Los Angeles),34.0474,-118.258,"Dropbox, Inc.",5,58
+NA,US,New York,40.7128,-74.006,IBM Cloud,4,48
+NA,US,Kahului,20.8893,-156.473,"Amazon.com, Inc.",4,30
+NA,US,Los Angeles (Downtown Los Angeles),34.0475,-118.257,Triton Digital,4,30
+NA,US,Southfield,42.4734,-83.2219,Apple Inc.,4,20
+AS,CN,Jinrongjie (Xicheng District),39.919,116.373,China Networks Inter-Exchange,4,12
+NA,US,New York,40.7291,-74.0094,"CenturyLink Communications, LLC",4,34
+AF,ZA,Johannesburg,-26.2056,28.0337,Akamai International B.V.,4,39
+EU,NL,Amsterdam,52.3676,4.90414,Index Exchange Inc.,4,18
+NA,US,Broomfield,39.9262,-105.095,Unitas Global,4,31
+EU,IT,Turin,45.0703,7.68686,Critical Case s.r.l,4,18
+EU,AD,Andorra la Vella,42.5063,1.52184,Adobe Inc.,4,36
+NA,CA,Montreal (Ville-Marie),45.496,-73.5766,Triton Digital,4,89
+EU,GB,London,51.5072,-0.127586,BBC,4,35
+EU,GB,Llanharry,51.4954,-3.4553,NEXXEN GROUP LTD,4,21
+EU,NL,Amsterdam (Westpoort),52.3925,4.84652,"Swiftwill, Inc.",4,63
+EU,DE,Münster,51.9607,7.62613,Deutsche Telekom AG,4,33
+NA,US,Washington D.C.,38.9072,-77.0369,Akamai International B.V.,4,74
+EU,NL,Bergeijk,51.3175,5.3613,MEDIABRIDGE UNITED LTD.,4,31
+NA,US,Southfield,42.4466,-83.2562,MOJOHOST,4,60
+NA,US,Weston,42.3703,-71.2747,Sin dato,4,64
+EU,SE,Åkersberga,59.4803,18.3108,IP Osteraker AB,4,42
+AS,PH,Pasig,14.5736,121.078,"Akamai Technologies, Inc.",4,25
+NA,US,Salt Lake City,40.7608,-111.891,UK-2 Limited,4,34
+NA,US,Ashburn,39.0438,-77.4874,Tiggee LLC,4,24
+EU,CH,Bern,46.948,7.44745,Cheops Technology Switzerland SA,4,42
+EU,RU,Moscow,55.7558,37.6173,Citytelecom LLC,4,62
+NA,US,Los Angeles,34.0549,-118.243,DingFeng XinHui(HongKong) Technology Limited,4,8
+NA,US,Kansas City,39.0997,-94.5786,"Amazon.com, Inc.",4,50
+EU,RU,Izhevsk,56.8619,53.2324,"\"PJSC \"\"Vimpelcom\"\"\"",4,69
+NA,US,New York,40.7456,-73.9942,Cogent Communications,4,62
+NA,US,Newark,40.7357,-74.1724,"Amazon.com, Inc.",4,48
+EU,FI,Helsinki,60.1699,24.9384,"Amazon.com, Inc.",4,18
+NA,US,Reston,38.9581,-77.3595,"CenturyLink Communications, LLC",4,56
+EU,GB,London,51.5072,-0.127586,Hastingwood Securities Ltd,4,58
+EU,FR,Paris,48.8566,2.35222,Akamai International B.V.,4,42
+EU,CZ,Prague,50.0755,14.4378,Iron Hosting Centre LTD,4,20
+EU,NL,Amsterdam (Amsterdam-Zuidoost),52.3403,4.87404,"Servers.com, Inc.",4,48
+NA,MX,Querétaro City,20.5888,-100.39,"Akamai Technologies, Inc.",4,53
+AS,SA,Jeddah,21.5292,39.1611,"Amazon.com, Inc.",4,32
+EU,DE,Frankfurt am Main,50.1109,8.68213,GLOBAL CLOUD NETWORK LLC,4,196
+EU,FR,Paris,48.8575,2.35138,EULERIAN TECHNOLOGIES S.A.S.,4,41
+EU,UA,Kyiv,50.4501,30.5234,GLOBAL CLOUD NETWORK LLC,4,141
+AS,CN,Wenzhou,27.9949,120.699,Chinanet,4,25
+NA,US,Framingham,42.31,-71.3895,Sin dato,4,86
+AS,IN,Mumbai,18.9582,72.832,"Akamai Technologies, Inc.",4,20
+NA,US,Shelton,41.2749,-73.1344,Sin dato,4,108
+AF,ZA,Johannesburg,-26.2056,28.0337,"Akamai Technologies, Inc.",4,90
+NA,US,Denver,39.7392,-104.985,"Amazon.com, Inc.",4,32
+NA,US,Burbank,34.1568,-118.325,Sin dato,4,53
+AF,ZA,Cape Town,-33.9221,18.4231,GTT Communications Netherlands B.V.,4,20
+AS,CN,Liuxiang,37.8734,112.563,China Telecom (Group),3,12
+SA,BR,Brasília,-15.7975,-47.8919,"Akamai Technologies, Inc.",3,38
+NA,US,Longfellow Community,44.9426,-93.2256,Unitas Global,3,39
+AS,IR,Mashhad,36.2605,59.6168,Green Web Samaneh Novin PJSC,3,37
+AS,HK,Hong Kong,22.3193,114.169,"Akamai Technologies, Inc.",3,57
+NA,US,San Mateo (South San Mateo),37.5413,-122.299,Incapsula Inc,3,23
+NA,US,Ashburn,39.011,-77.4711,Verizon Business,3,46
+NA,CA,Petrolia,42.8818,-82.1527,Juce Connect Inc.,3,46
+AS,IN,New Delhi,28.6139,77.2088,"Akamai Technologies, Inc.",3,400
+NA,US,Oak Brook,41.854,-87.9209,"Latisys-Chicago, LLC",3,20
+AS,IN,Chennai,13.0827,80.2707,IBM Cloud,3,24
+EU,IT,Rome,41.8967,12.4822,"Akamai Technologies, Inc.",3,59
+AS,JP,Chiyoda City,35.6906,139.77,"SECOM Trust Systems Co.,Ltd.",3,44
+NA,US,El Segundo,33.9301,-118.384,Sin dato,3,25
+EU,DE,Munich (Altstadt-Lehel),48.1446,11.5895,Team Internet AG,3,21
+NA,US,Tysons Corner,38.9249,-77.2367,GTT Communications Inc.,3,19
+EU,GB,London,51.5163,-0.0954593,Sin dato,3,22
+AS,TR,Ataşehir,40.9951,29.0997,PremierDC Veri Merkezi Anonim Sirketi,3,25
+AS,CN,Guancheng,34.7657,113.753,Chinanet,3,42
+EU,ES,Lugo,43.0127,-7.55092,OVH SAS,3,55
+EU,DE,Düsseldorf,51.223,6.78245,GTT Communications Inc.,3,51
+NA,US,Houston,29.7633,-95.3633,"Amazon.com, Inc.",2,54
+AS,IR,Tehran,35.6892,51.389,Avini cultural and Art Institute,2,46
+NA,US,McLean,38.9195,-77.2197,GTT Communications Inc.,2,32
+EU,DE,Hamburg,53.5488,9.98717,"Akamai Technologies, Inc.",2,10
+NA,US,Salt Lake City,40.7608,-111.891,Google LLC,2,54
+SA,BR,São Paulo,-23.5558,-46.6396,Sin dato,2,21
+NA,US,Mount Prospect,42.0664,-87.9373,Akamai International B.V.,2,18
+EU,PL,Warsaw,52.2297,21.0122,9bits Sp. z o.o.,2,42
+EU,RU,St Petersburg,59.9311,30.3609,"\"PJSC \"\"Vimpelcom\"\"\"",2,31
+NA,US,Covina,34.0756,-117.886,Hurricane Electric LLC,2,25
+SA,AR,Buenos Aires,-34.6037,-58.3816,OVH SAS,2,30
+EU,GB,London,51.5074,-0.127758,"NetActuate, Inc",2,12
+AS,IR,Tehrān,35.7219,51.3347,Afranet,2,38
+NA,US,San Francisco (Mid-Market),37.7823,-122.41,Sin dato,2,41
+NA,US,Atlanta,33.7501,-84.3885,Apple Inc.,2,16
+AS,JP,Chiyoda City,35.694,139.754,"Akamai Technologies, Inc.",2,45
+NA,US,Minneapolis,44.9778,-93.265,"Akamai Technologies, Inc.",2,38
+EU,RU,Ionov,49.9917,45.307,Data Storage Center JSC,2,16
+AS,HK,Hong Kong,22.3193,114.169,Rackspace.com Hong Kong Limited,2,10
+AS,CN,Jinrongjie (Xicheng District),39.9175,116.362,China Unicom,2,10
+NA,US,Santa Clara,37.3701,-121.964,Zayo Bandwidth,2,42
+AS,AE,Al Aqqah,25.4111,56.2482,"Akamai Technologies, Inc.",2,42
+AS,MY,Kuala Lumpur (Kampung Attap),3.13696,101.694,TM TECHNOLOGY SERVICES SDN BHD,2,32
+OC,AU,Melbourne,-37.8194,144.959,VOCUS PTY LTD,2,41
+NA,US,Los Angeles (Central-Alameda),34.0544,-118.267,G-Core Labs S.A.,2,36
+AS,CN,Ningbo,29.9302,121.561,"NINGBO, ZHEJIANG Province, P.R.China.",2,12
+NA,CA,Teeds Mills,46.1221,-67.6067,Xplore Inc.,2,6
+EU,GB,London,51.5287,-0.100964,"Level 3 Communications, Inc.",1,15
+AS,SG,Singapore (Queenstown Estate),1.29518,103.79,Equinix (EMEA) Acquisition Enterprises B.V.,1,17
+NA,US,Los Angeles,34.0549,-118.243,"Automattic, Inc",1,45
+NA,CA,Toronto (Old Toronto),43.6492,-79.3912,Sin dato,1,3
+NA,CA,Fredericton (Downtown),45.9635,-66.6431,Xplore Inc.,1,3
