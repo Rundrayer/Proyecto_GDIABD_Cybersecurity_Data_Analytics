@@ -1,0 +1,4 @@
+﻿Modelo,F1_CV_Media,F1_CV_DesvStd,Recall_CV_Media,Estable (Desv < 0.02)
+Dummy (Línea base),0.0,0.0,0.0,True
+Regresión Logística (modelo),0.7146,0.0026,0.957,True
+Random Forest (modelo_rf),0.993,0.0007,0.9961,True

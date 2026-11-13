@@ -1,0 +1,38 @@
+{
+    "modelo_seleccionado": "RandomForestClassifier (Pipeline con preprocesamiento)",
+    "archivo_joblib": "modelo_candidato_guia09.joblib",
+    "sha256": "d85c38d7b87c2c21",
+    "registros_entrenamiento": 396267,
+    "columnas_numericas": [
+        "flow_duration",
+        "total_fwd_packets",
+        "total_backward_packets",
+        "total_length_of_fwd_packets",
+        "total_length_of_bwd_packets",
+        "fwd_packet_length_mean",
+        "bwd_packet_length_mean",
+        "packet_length_mean",
+        "packet_length_std",
+        "flow_bytes_s",
+        "flow_packets_s",
+        "flow_iat_mean",
+        "fwd_iat_mean",
+        "bwd_iat_mean",
+        "down_up_ratio",
+        "init_win_bytes_forward",
+        "init_win_bytes_backward",
+        "ratio_fwd_bwd_bytes",
+        "total_flags_activadas"
+    ],
+    "columnas_categoricas": [
+        "protocol",
+        "categoria_duracion"
+    ],
+    "metricas_test": {
+        "Accuracy": 0.9971,
+        "Precision": 0.9886,
+        "Recall": 0.9967,
+        "F1-Score": 0.9926,
+        "ROC-AUC": 0.9998
+    }
+}

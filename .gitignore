@@ -47,6 +47,8 @@ venv/
 !Datos/Analiticos/Resultados/*.xlsx
 !Datos/Reporteria/**
 !Datos/Geoanalisis/**
-!Documentacion/**
+!Datos/Modelos/*.png
+!Datos/Modelos/*.csv
+!Datos/Modelos/*.json
 
 !README.md

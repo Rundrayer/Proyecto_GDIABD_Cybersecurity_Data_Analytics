@@ -1,0 +1,4 @@
+﻿Modelo,Accuracy,Precision,Recall,F1-Score,ROC-AUC,F1_train (Estudio),Brecha_F1 (Train - Test),F1_CV_Media,F1_CV_DesvStd,Recall_CV_Media,Supera_Baseline,Sin_Overfitting,Es_Estable,Alto_Recall
+Dummy (Línea base),0.8027,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,False,True,True,False
+Regresión Logística (modelo),0.851,0.5732,0.9571,0.717,0.9573,0.7163,-0.0008,0.7146,0.0026,0.957,True,True,True,True
+Random Forest (modelo_rf),0.9971,0.9886,0.9967,0.9926,0.9998,0.9956,0.003,0.993,0.0007,0.9961,True,True,True,True
