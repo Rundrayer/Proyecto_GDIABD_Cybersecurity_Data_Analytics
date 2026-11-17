@@ -51,4 +51,5 @@ venv/
 !Datos/Modelos/*.csv
 !Datos/Modelos/*.json
 
-!README.md
+!README.md"Datos/Modelos/predicciones_modelo_optimizado_guia10.csv" 
+"Datos/Modelos/modelo_optimizado_guia10.joblib" 
