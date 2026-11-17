@@ -6,7 +6,7 @@ import os
 
 
 #MODIFICAR RUTAS CON LOS ARCHIVOS winutils.exe y hadoop.dll -------------------------------------------------------------------MODIFICAR
-RUTA_HADOOP = Path(r"C:\Users\galle\Desktop\IA Datos\hadoop")
+RUTA_HADOOP = Path(r"C:\Users\danye\Desktop\IA Datos\hadoop")
 
 #--
 

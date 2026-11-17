@@ -1,7 +1,7 @@
 {
     "modelo_seleccionado": "RandomForestClassifier (Pipeline con preprocesamiento)",
     "archivo_joblib": "modelo_candidato_guia09.joblib",
-    "sha256": "d85c38d7b87c2c21",
+    "sha256": "d3a3062b2c554e19",
     "registros_entrenamiento": 396267,
     "columnas_numericas": [
         "flow_duration",
@@ -29,10 +29,10 @@
         "categoria_duracion"
     ],
     "metricas_test": {
-        "Accuracy": 0.9971,
-        "Precision": 0.9886,
-        "Recall": 0.9967,
-        "F1-Score": 0.9926,
-        "ROC-AUC": 0.9998
+        "Accuracy": 0.9969,
+        "Precision": 0.987,
+        "Recall": 0.9975,
+        "F1-Score": 0.9922,
+        "ROC-AUC": 0.9999
     }
 }

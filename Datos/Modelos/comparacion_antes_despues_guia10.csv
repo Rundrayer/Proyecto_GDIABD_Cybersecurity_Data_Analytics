@@ -1,0 +1,4 @@
+Modelo,F1_prueba,Recall_prueba,Precision_prueba,ROC_AUC_prueba,Costo,Decision
+Baseline (Dummy),0.0,0.0,0.0,0.5,Despreciable (< 1 s),Descartado (no detecta ataques)
+Candidato Guía 9 (RF base),0.9926,0.9967,0.9886,0.9998,88.92 s CV / ~14 s refit,Superado en F1 y precisión
+Optimizado Guía 10 (C1),0.9942,0.9942,0.9941,0.9999,184.26 s CV / 22.72 s refit,Seleccionado para producción
