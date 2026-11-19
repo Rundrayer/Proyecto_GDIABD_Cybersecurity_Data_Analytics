@@ -8,6 +8,8 @@ Datos/Analiticos/Parquet/*
 Datos/Analiticos/Resultados/*
 Recursos/*
 Datos/Modelos/*
+Datos/ReportesPowerBI/*.zip
+Documentacion/*
 
 
 # incluir archivo para mantener las carpetas vacias generadas dentro de la vista del repositorio
@@ -26,7 +28,6 @@ __pycache__/
 
 *.exe
 *.dll
-*.md
 *.xlsx
 *.csv
 *.parquet
@@ -53,3 +54,5 @@ venv/
 
 !README.md"Datos/Modelos/predicciones_modelo_optimizado_guia10.csv" 
 "Datos/Modelos/modelo_optimizado_guia10.joblib" 
+
+predicciones_modelo_optimizado_guia10.csv

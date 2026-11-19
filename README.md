@@ -4,7 +4,7 @@ Se busca con este proyecto contribuir al avance de sistemas de detección de ano
 
 ---
 
-# Analítica de Ciberseguridad, Gobernanza de Datos, BI y Detección de Intrusiones de Red (IDS)
+# Analítica de Ciberseguridad: Construcción de Pipeline integral de analítica de datos y Machine Learning, diseñado para procesar, gobernar, visualizar y aprender por medio de modelos del tráfico de red a gran escala.
 
 ## Descripción Detallada por Etapa
 

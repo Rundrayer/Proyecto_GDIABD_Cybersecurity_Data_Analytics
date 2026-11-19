@@ -1,15 +1,43 @@
-Va a necesitar descargar estas librerías en tu entorno para poder ejecutar todos los procesos del proyecto
+GUÍA DE INSTALACIÓN, LIBRERÍAS Y APRECIACIONES DE EJECUCIÓN DEL PROYECTO
 
-#Librerias
--pandas
--numpy
--pyarrow
--pyspark de 3.5.3 en delante 
--openpyxl
+Proyecto Integrador: Cybersecurity Data Analytics
 
-#Programas:
--hadoop
--Version de JDK de java
 
--Para ejecutarlo en windows de manera local
-1. Descargar winutils.exe y hadoop.dll y cambiar direccion de ruta en configuraciones
+--PROGRAMAS
+--------------------------------------------------------------------------------
+1.Python Versión 3.10 o 3.11.
+
+2.Entorno de ejecución: Anaconda / Jupyter Notebook o Visual Studio Code con soporte para Jupyter.
+
+3.Java Development Kit: Versión 11 o 17 como requisito obligatorio para ejecutar Apache Spark.
+
+4. Hadoop y si se ejecuta en Windows de forma local, se necesita los Binarios winutils.exe y hadoop.dll correspondientes a la versión de Hadoop utilizada por Spark.
+
+Los cuales se usaron para esta versión del proyecto. (puede cambiar la dirección de ruta de los binarios en configuraciones.py)
+
+
+--LIBRERÍAS DE PYTHON REQUERIDAS
+--------------------------------------------------------------------------------
+
+# Procesamiento Big Data y Manipulación de Datos (Guías 1 a 4)
+
+- pyspark (>= 3.5.3)
+- pandas
+- numpy
+- pyarrow
+- openpyxl
+
+# Reportería Automatizada y Gráficos Interactivos (Guía 7)
+- plotly
+- kaleido (necesaria para exportar gráficos de Plotly a imagen estática)
+- jinja2
+- python-docx
+- weasyprint (o motor PDF equivalente configurado en tu entorno para exportar el informe)
+
+
+# Machine Learning, Evaluación y Serialización (Guías 8 a 10)
+
+- scikit-learn
+- matplotlib
+- seaborn
+- joblib
